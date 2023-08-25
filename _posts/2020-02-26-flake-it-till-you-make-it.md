@@ -1,17 +1,49 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: Miscelanea y cierre de la temporada 2
+subtitle: Episodio 54 de la temporada 2
 cover-img: https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/14743809/14743809-1692532420535-f916956567ad1.jpg
 thumbnail-img: https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/14743809/14743809-1692532420535-f916956567ad1.jpg
 share-img: /assets/img/path.jpg
-tags: [books, test]
+tags: [episode]
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+<p>Temas tratados y notas:</p>
+<ul>
+ <li>Nuestro uso de tecnología durante las vacaciones</li>
+ <li>El móvil es ya un sustituto del pc</li>
+ <li>WireGuard easy docker: <a href="https://github.com/wg-easy/wg-easy" target="_blank" rel="noopener noreferer">https://github.com/wg-easy/wg-easy</a></li>
+ <li>Apple Vision Pro</li>
+  <li>X</li>
+  <li>Es el fin de los servicios gratuitos, los que tú eres el producto?</li>
+  <li>Calidad de Chatgpt y los LLMs</li>
+  <li>Conducción autónoma: Cruise and Waymo</li>
+  <li>El hombre en el castillo (Philip K. Dick): <a href="https://es.wikipedia.org/wiki/El_hombre_en_el_castillo" target="_blank" rel="noopener noreferer">https://es.wikipedia.org/wiki/El_hombre_en_el_castillo</a></li>
+  <li>Fin de temporada y cifras</li>
+  <li>1,779 escuchas en total desde abril de 2001</li>
+  <li>Episodio de limpieza de los airpods </li>
+  <li>Vacaciones y libros: Ebooks vs libros / Kindle</li>
+  <li>Trust (Hernan Diaz): https://www.goodreads.com/book/show/58210933-trust</li>
+  <li>Silo (Hugh Howey): https://www.goodreads.com/book/show/20745447-the-wool-trilogy</li>
+  <li>Beyond Woke (Michael Rectenwald): https://www.goodreads.com/book/show/53519424-beyond-woke</li>
+</ul>
+<p><br></p>
+<p>Episodio editado con Adobe enhanced speech:  https://podcast.adobe.com/enhance</p>
+<p><br></p>
+<p>Esperamos que os guste!</p>
+<p><br></p>
+<p>Música con licencias Creative Commons:</p>
+<ul>
+  <li>Introducción: Man Outta Town by Forget the Whale (https://freemusicarchive.org/music/Forget_the_Whale/you-me-talk-now/man-outta-town-instrumental-1)</li>
+</ul>
+<ul>
+  <li>Cortinilla de cierre: Rome (Capricorn) by RENAE (https://www.jamendo.com/track/1825610/rome-capricorn)</li>
+</ul>
+<p><br></p>
+<p>¡Únete a nuestro comunidad Gee King Zone Podcast en Telegram!
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+Además, cualquier comentario es bienvenido y agradecido en GeeKingZone@proton.me
+Y por supuesto, en mastodon: @GeeKingZone@mastodon.social
+Y nuestra web: https://geekingzone.codeberg.page
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
-
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+Os esperamos...</p>
