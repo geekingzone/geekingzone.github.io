@@ -50,13 +50,13 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "geekingzone@protonmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  # facebook: deanattali
+  github: geekingzone
+  # twitter: daattali
+  # patreon: DeanAttali
+  # youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -64,14 +64,14 @@ social-network-links:
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
-#  spotify: yourname
+  spotify: https://open.spotify.com/show/2EU2saR37Yip4BrGKd73XK
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
-#  telegram: yourname
+  telegram: https://t.me/GeeKingZone
 #  calendly: yourname
-#  mastodon: instance.url/@username
+  mastodon: https://mastodon.social/@GeeKingZone
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
 #  discord: "invite_code" or "users/userid" or "invite/invite_code" 
@@ -90,7 +90,7 @@ rss-description: This website is a virtual proof that I'm awesome
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   linkedin: true
   vk: false
 
