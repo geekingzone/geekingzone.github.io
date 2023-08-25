@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Gee King Zone Podcast
+title: Gee King Zone
 
 # Your name to show in the footer
 author: Gee King Zone
@@ -20,7 +20,7 @@ author: Gee King Zone
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  Sobre Nosotros: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
