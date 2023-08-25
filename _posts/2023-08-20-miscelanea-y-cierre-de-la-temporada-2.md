@@ -8,6 +8,8 @@ share-img: /assets/img/path.jpg
 tags: [episode]
 ---
 
+<iframe src="https://podcasters.spotify.com/pod/show/geekingzone/embed/episodes/Miscelanea-y-cierre-de-la-temporada-2-e28a911" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
 <p>Temas tratados y notas:</p>
 <ul>
  <li>Nuestro uso de tecnología durante las vacaciones</li>
