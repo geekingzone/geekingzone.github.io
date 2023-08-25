@@ -21,6 +21,7 @@ author: Gee King Zone
 
 navbar-links:
   Sobre Nosotros: "aboutme"
+  Recomendaciones: "recomendaciones"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
