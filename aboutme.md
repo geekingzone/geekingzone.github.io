@@ -1,16 +1,14 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Sobre nosotros
+subtitle: Algo mas de información sobre el podcast
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Podcast sobre tecnología a corazón abierto.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Dos amigos, Ruben y Ricardo aprovechan el podcast para compartir pensamientos sobre IA, self-hosting, redes sociales y gestión de conocimiento.
 
-What else do you need?
+Puedes contactar con nosotros por los siguientes medios:
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- Telegram: https://t.me/GeeKingZone
+- Mastodon: https://mastodon.social/@GeeKingZone
