@@ -1,0 +1,1 @@
+GKZ cortos - Explicación sencilla de cómo funciona ChatGPT

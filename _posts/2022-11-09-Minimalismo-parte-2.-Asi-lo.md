@@ -1,0 +1,1 @@
+Minimalismo parte 2. Así lo hacemos nosotros
