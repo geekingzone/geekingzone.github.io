@@ -1,0 +1,1 @@
+GKZ cortos - generando imágenes con IA sin tener una GPU en casa
