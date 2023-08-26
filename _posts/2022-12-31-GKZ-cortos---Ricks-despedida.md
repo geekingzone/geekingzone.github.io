@@ -1,1 +1,0 @@
-GKZ cortos - Ricks despedida del año

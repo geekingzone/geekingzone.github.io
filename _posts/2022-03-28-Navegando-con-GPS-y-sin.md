@@ -1,1 +1,0 @@
-Navegando con GPS y sin retrovisores

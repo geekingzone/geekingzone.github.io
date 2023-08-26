@@ -1,1 +1,0 @@
-Podfade, con falsa entrada y a corazón abierto

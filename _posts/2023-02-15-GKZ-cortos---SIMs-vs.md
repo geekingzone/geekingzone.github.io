@@ -1,1 +1,0 @@
-GKZ cortos - SIMs vs eSIMs

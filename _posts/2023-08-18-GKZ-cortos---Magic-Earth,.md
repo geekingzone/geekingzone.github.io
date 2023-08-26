@@ -1,1 +1,0 @@
-GKZ cortos - Magic Earth, un navegador GPS con algo de magia

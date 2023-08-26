@@ -1,1 +1,0 @@
-GKZ cortos - sobre la privacidad de WhatsApp

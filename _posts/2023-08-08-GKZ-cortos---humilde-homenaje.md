@@ -1,1 +1,0 @@
-GKZ cortos - humilde homenaje a Bram Moolenaar

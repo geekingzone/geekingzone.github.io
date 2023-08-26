@@ -1,1 +1,0 @@
-GKZ cortos - La fábula de la IA que mató a su amo

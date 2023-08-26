@@ -1,1 +1,0 @@
-GKZ cortos - miscelánea de soluciones
