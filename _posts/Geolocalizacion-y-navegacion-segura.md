@@ -1,1 +1,0 @@
-Geolocalización y navegación segura

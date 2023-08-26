@@ -1,1 +1,0 @@
-GKZ cortos - Capacidad de atención

@@ -1,1 +1,0 @@
-GKZ cortos - Registro de metricas de tu bebé

@@ -1,1 +1,0 @@
-GKZ cortos - Software espia

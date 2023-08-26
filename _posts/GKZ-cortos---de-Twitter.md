@@ -1,1 +1,0 @@
-GKZ cortos - de Twitter a Mastodon

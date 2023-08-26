@@ -1,1 +1,0 @@
-GKZ cortos - Rubén despedida del año

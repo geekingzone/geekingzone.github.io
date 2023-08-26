@@ -1,1 +1,0 @@
-GKZ cortos - ¿problemas con el router?
