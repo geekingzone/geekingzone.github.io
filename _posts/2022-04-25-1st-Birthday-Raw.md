@@ -14,4 +14,4 @@ Muchas gracias de corazón a todos!
 Musica con licencia creative commons: 
 
  Blood - All My Friends Hate Me (Jamendo)
-<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/embed/episodes/1st-Birthday-Raw-e1hlkbj' height='204px' width='400px' frameborder='0' scrolling='no'></iframe>
+<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/embed/episodes/1st-Birthday-Raw-e1hlkbj' height='204px' width='380px' frameborder='0' scrolling='no'></iframe>

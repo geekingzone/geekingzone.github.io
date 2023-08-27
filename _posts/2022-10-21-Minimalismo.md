@@ -27,4 +27,4 @@ tags: [episode]
 <p>Y nuestra web: [https://geekingzone.codeberg.page</p>](https://geekingzone.codeberg.page</p>)
 <p>Os esperamos...</p>
 <p><br /></p>
-<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/embed/episodes/Minimalismo-e1pjhnv' height='204px' width='400px' frameborder='0' scrolling='no'></iframe>
+<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/embed/episodes/Minimalismo-e1pjhnv' height='204px' width='380px' frameborder='0' scrolling='no'></iframe>

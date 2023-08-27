@@ -23,4 +23,4 @@ Además, cualquier comentario es bienvenido y agradecido en GeeKingZone@proton.m
 Y por supuesto, en mastodon: @GeeKingZone@mastodon.social
 Y nuestra web: [https://geekingzone.codeberg.page](https://geekingzone.codeberg.page)
 Os esperamos...
-<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/embed/episodes/GKZ-cortos---de-Twitter-a-Mastodon-e1qgqmp' height='204px' width='400px' frameborder='0' scrolling='no'></iframe>
+<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/embed/episodes/GKZ-cortos---de-Twitter-a-Mastodon-e1qgqmp' height='204px' width='380px' frameborder='0' scrolling='no'></iframe>

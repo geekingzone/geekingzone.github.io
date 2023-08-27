@@ -34,4 +34,4 @@ Cualquier comentario es bienvenido y agradecido en GeeKingZone@protonmail.com o 
 Únete a nuestra comunidad en Telegram, accesible desde [https://t.me/GeeKingZone](https://t.me/GeeKingZone)
 
 Os esperamos.
-<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/embed/episodes/Geolocalizacin-y-navegacin-segura-e12aqj1' height='204px' width='400px' frameborder='0' scrolling='no'></iframe>
+<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/embed/episodes/Geolocalizacin-y-navegacin-segura-e12aqj1' height='204px' width='380px' frameborder='0' scrolling='no'></iframe>

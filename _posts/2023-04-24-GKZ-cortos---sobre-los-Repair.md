@@ -24,4 +24,4 @@ tags: [episode]
 <p>Y por supuesto, en mastodon: @GeeKingZone@mastodon.social </p>
 <p>Y nuestra web: [https://geekingzone.codeberg.page</p>](https://geekingzone.codeberg.page</p>)
 <p>Os esperamos...</p>
-<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/embed/episodes/GKZ-cortos---sobre-los-Repair-Caf-e22v42f' height='204px' width='400px' frameborder='0' scrolling='no'></iframe>
+<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/embed/episodes/GKZ-cortos---sobre-los-Repair-Caf-e22v42f' height='204px' width='380px' frameborder='0' scrolling='no'></iframe>

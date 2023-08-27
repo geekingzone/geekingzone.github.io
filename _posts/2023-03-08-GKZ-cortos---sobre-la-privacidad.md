@@ -18,4 +18,4 @@ tags: [episode]
 <p>Y por supuesto, en mastodon: @GeeKingZone@mastodon.social</p>
 <p>Y nuestra web: [https://geekingzone.codeberg.page](https://geekingzone.codeberg.page) (que por cierto, tenemos que actualizar).</p>
 <p>Os esperamos...</p>
-<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/embed/episodes/GKZ-cortos---sobre-la-privacidad-de-WhatsApp-e202oqp' height='204px' width='400px' frameborder='0' scrolling='no'></iframe>
+<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/embed/episodes/GKZ-cortos---sobre-la-privacidad-de-WhatsApp-e202oqp' height='204px' width='380px' frameborder='0' scrolling='no'></iframe>

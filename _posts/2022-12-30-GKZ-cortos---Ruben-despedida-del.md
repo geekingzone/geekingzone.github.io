@@ -22,4 +22,4 @@ tags: [episode]
 <p>Y por supuesto, en mastodon: @GeeKingZone@mastodon.social&nbsp;</p>
 <p>Y nuestra web: [https://geekingzone.codeberg.page&nbsp;</p>](https://geekingzone.codeberg.page&nbsp;</p>)
 <p>Os esperamos...</p>
-<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/embed/episodes/GKZ-cortos---Rubn-despedida-del-ao-e1stdgu' height='204px' width='400px' frameborder='0' scrolling='no'></iframe>
+<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/embed/episodes/GKZ-cortos---Rubn-despedida-del-ao-e1stdgu' height='204px' width='380px' frameborder='0' scrolling='no'></iframe>

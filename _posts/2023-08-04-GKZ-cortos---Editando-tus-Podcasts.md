@@ -9,4 +9,4 @@ tags: [episode]
 ---
 
 <p>Pues eso. En este episodio jugamos con la edición para enseñarte cómo ahorrarte 1h de edición en tu próximo episodio gracias a la herramienta &quot;Enhance speech&quot; de Adobe: <a href="[https://podcast.adobe.com/enhance](https://podcast.adobe.com/enhance)">⁠[https://podcast.adobe.com/enhance](https://podcast.adobe.com/enhance)#⁠</a></p>
-<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/embed/episodes/GKZ-cortos---Editando-tus-Podcasts-con-IA-e27nee1' height='204px' width='400px' frameborder='0' scrolling='no'></iframe>
+<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/embed/episodes/GKZ-cortos---Editando-tus-Podcasts-con-IA-e27nee1' height='204px' width='380px' frameborder='0' scrolling='no'></iframe>

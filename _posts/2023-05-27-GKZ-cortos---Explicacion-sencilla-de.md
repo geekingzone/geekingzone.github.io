@@ -12,4 +12,4 @@ Episodio corto donde comento una explicación sencilla de cómo funcionan los mo
 
 Enlace al artículo: [https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 LLMs (wikipedia): [https://en.wikipedia.org/wiki/Wikipedia:Large_language_models](https://en.wikipedia.org/wiki/Wikipedia:Large_language_models)
-<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/embed/episodes/GKZ-cortos---Explicacin-sencilla-de-cmo-funciona-ChatGPT-e24phqt' height='204px' width='400px' frameborder='0' scrolling='no'></iframe>
+<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/embed/episodes/GKZ-cortos---Explicacin-sencilla-de-cmo-funciona-ChatGPT-e24phqt' height='204px' width='380px' frameborder='0' scrolling='no'></iframe>

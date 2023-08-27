@@ -24,4 +24,4 @@ tags: [episode]
 <p>Y por supuesto, en mastodon: [https://mastodon.social/@GeeKingZone</p>](https://mastodon.social/@GeeKingZone</p>)
 <p>Y nuestra web: [https://geekingzone.codeberg.page</p>](https://geekingzone.codeberg.page</p>)
 <p>Os esperamos...</p>
-<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/embed/episodes/A-ritmo-del-Gee-K-Fusion-e1sdvl3' height='204px' width='400px' frameborder='0' scrolling='no'></iframe>
+<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/embed/episodes/A-ritmo-del-Gee-K-Fusion-e1sdvl3' height='204px' width='380px' frameborder='0' scrolling='no'></iframe>

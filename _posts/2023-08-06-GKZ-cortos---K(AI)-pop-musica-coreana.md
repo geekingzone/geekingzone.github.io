@@ -18,4 +18,4 @@ El artista se hace llamar MIDNATT y es el alter ego de Lee Hyun. Aquí podéis e
 Y aquí la herramienta específicamente para producción musical que han utilizado:
 
 [https://supertone.ai/](https://supertone.ai/)
-<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/embed/episodes/GKZ-cortos---KAI-pop-msica-coreana-pasada-por-la-mquina-de-IA-para-llegar-an-ms-lejos-e27pchc' height='204px' width='400px' frameborder='0' scrolling='no'></iframe>
+<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/embed/episodes/GKZ-cortos---KAI-pop-msica-coreana-pasada-por-la-mquina-de-IA-para-llegar-an-ms-lejos-e27pchc' height='204px' width='380px' frameborder='0' scrolling='no'></iframe>

@@ -9,4 +9,4 @@ tags: [episode]
 ---
 
 Un poco de reflexión sobre controles parentales y esas cosas
-<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/embed/episodes/GKZ-cortos---el-de-mi-reflexin-sobre-el-control-del-uso-de-la-tecnologa-y-redes-sociales-e25spu2' height='204px' width='400px' frameborder='0' scrolling='no'></iframe>
+<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/embed/episodes/GKZ-cortos---el-de-mi-reflexin-sobre-el-control-del-uso-de-la-tecnologa-y-redes-sociales-e25spu2' height='204px' width='380px' frameborder='0' scrolling='no'></iframe>
