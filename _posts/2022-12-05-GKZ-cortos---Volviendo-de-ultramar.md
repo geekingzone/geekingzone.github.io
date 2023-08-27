@@ -17,4 +17,4 @@ tags: [episode]
 <p>Y por supuesto, en mastodon: @GeeKingZone@mastodon.social&nbsp;</p>
 <p>Y nuestra web: [https://geekingzone.codeberg.page&nbsp;</p>](https://geekingzone.codeberg.page&nbsp;</p>)
 <p>Os esperamos...</p>
-<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/episodes/GKZ-cortos---Volviendo-de-ultramar-e1rq6qf' height='204px' width='800px' frameborder='0' scrolling='no'></iframe>
+<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/embed/episodes/GKZ-cortos---Volviendo-de-ultramar-e1rq6qf' height='204px' width='800px' frameborder='0' scrolling='no'></iframe>

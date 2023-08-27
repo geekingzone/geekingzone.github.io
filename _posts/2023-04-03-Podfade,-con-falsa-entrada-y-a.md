@@ -30,4 +30,4 @@ Y por supuesto, en mastodon: @GeeKingZone@mastodon.social
 Y nuestra web: [https://geekingzone.codeberg.page](https://geekingzone.codeberg.page)
 
 Os esperamos...
-<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/episodes/Podfade--con-falsa-entrada-y-a-corazn-abierto-e21j1vd' height='204px' width='800px' frameborder='0' scrolling='no'></iframe>
+<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/embed/episodes/Podfade--con-falsa-entrada-y-a-corazn-abierto-e21j1vd' height='204px' width='800px' frameborder='0' scrolling='no'></iframe>

@@ -28,4 +28,4 @@ Cualquier comentario es bienvenido y agradecido en GeeKingZone@protonmail.com o 
 Y nuestra web: [https://geekingzone.codeberg.page](https://geekingzone.codeberg.page)
 Os esperamos
 (Nota: este episodio fue titulado inicialmente como "Cual era mi password" pero decidimos cambiarle el título el 15/09/2021)
-<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/episodes/Santo-y-sea-e177oon' height='204px' width='800px' frameborder='0' scrolling='no'></iframe>
+<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/embed/episodes/Santo-y-sea-e177oon' height='204px' width='800px' frameborder='0' scrolling='no'></iframe>

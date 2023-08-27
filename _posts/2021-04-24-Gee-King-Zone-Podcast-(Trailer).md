@@ -9,4 +9,4 @@ tags: [episode]
 ---
 
 
-<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/episodes/ep-e177mhu' height='204px' width='800px' frameborder='0' scrolling='no'></iframe>
+<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/embed/episodes/ep-e177mhu' height='204px' width='800px' frameborder='0' scrolling='no'></iframe>

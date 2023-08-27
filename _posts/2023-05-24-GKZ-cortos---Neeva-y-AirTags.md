@@ -9,4 +9,4 @@ tags: [episode]
 ---
 
 Episodio corto donde hablamos sobre el buscador Neeva y el efecto perverso de utilizar un Air Tag con un plan familiar. Podcast Nada que Ganar: [https://nada-que-ganar.simplecast.com](https://nada-que-ganar.simplecast.com)
-<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/episodes/GKZ-cortos---Neeva-y-AirTags-con-el-plan-familiar-e24kscn' height='204px' width='800px' frameborder='0' scrolling='no'></iframe>
+<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/embed/episodes/GKZ-cortos---Neeva-y-AirTags-con-el-plan-familiar-e24kscn' height='204px' width='800px' frameborder='0' scrolling='no'></iframe>

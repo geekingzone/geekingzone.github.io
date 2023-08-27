@@ -9,4 +9,4 @@ tags: [episode]
 ---
 
 <p>Con nuestros mejores deseos para todos vosotros, os deseamos una Feliz Navidad!!! &nbsp;😉</p>
-<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/episodes/Gee-King-Zico-e1c576e' height='204px' width='800px' frameborder='0' scrolling='no'></iframe>
+<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/embed/episodes/Gee-King-Zico-e1c576e' height='204px' width='800px' frameborder='0' scrolling='no'></iframe>

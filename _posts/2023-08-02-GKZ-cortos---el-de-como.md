@@ -9,4 +9,4 @@ tags: [episode]
 ---
 
 Pues eso. Este episodio va de limpieza.
-<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/episodes/GKZ-cortos---el-de-como-limpio-mis-auriculares-e27j16u' height='204px' width='800px' frameborder='0' scrolling='no'></iframe>
+<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/embed/episodes/GKZ-cortos---el-de-como-limpio-mis-auriculares-e27j16u' height='204px' width='800px' frameborder='0' scrolling='no'></iframe>

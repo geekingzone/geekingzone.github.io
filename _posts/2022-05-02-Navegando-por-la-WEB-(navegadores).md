@@ -60,4 +60,4 @@ Además, cualquier comentario es bienvenido y agradecido en GeeKingZone@proton.m
 Y nuestra web: [https://geekingzone.codeberg.page](https://geekingzone.codeberg.page)
 
 Os esperamos
-<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/episodes/Navegando-por-la-WEB-navegadores-e1hv2a4' height='204px' width='800px' frameborder='0' scrolling='no'></iframe>
+<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/embed/episodes/Navegando-por-la-WEB-navegadores-e1hv2a4' height='204px' width='800px' frameborder='0' scrolling='no'></iframe>

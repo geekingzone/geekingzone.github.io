@@ -16,4 +16,4 @@ Musica con licencias Creative Commons:
  Man Outa Town by Forget the Whale (via freemusicarchive.org)
 
 Cualquier comentario es bienvenido en GeeKingZone@protonmail.com
-<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/episodes/Cmo-hacemos-un-Podcast-evkhbj' height='204px' width='800px' frameborder='0' scrolling='no'></iframe>
+<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/embed/episodes/Cmo-hacemos-un-Podcast-evkhbj' height='204px' width='800px' frameborder='0' scrolling='no'></iframe>

@@ -18,4 +18,4 @@ tags: [episode]
 <p>Y por supuesto, en mastodon: @GeeKingZone@mastodon.social</p>
 <p>Y nuestra web: [https://geekingzone.codeberg.page</p>](https://geekingzone.codeberg.page</p>)
 <p>Os esperamos...</p>
-<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/episodes/GKZ-cortos---El-Gallo-del-Jet-Lag-e1s7cn0' height='204px' width='800px' frameborder='0' scrolling='no'></iframe>
+<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/embed/episodes/GKZ-cortos---El-Gallo-del-Jet-Lag-e1s7cn0' height='204px' width='800px' frameborder='0' scrolling='no'></iframe>
