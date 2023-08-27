@@ -10,5 +10,5 @@ tags: [episode]
 
 Episodio corto donde comento una explicación sencilla de cómo funcionan los modelos LLM y ChatGPT
 
-Enlace al artículo: https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/
-LLMs (wikipedia): https://en.wikipedia.org/wiki/Wikipedia:Large_language_models
+Enlace al artículo: &lt;a href="https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/"&gt;https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/&lt;/a&gt;
+LLMs (wikipedia): &lt;a href="https://en.wikipedia.org/wiki/Wikipedia:Large_language_models"&gt;https://en.wikipedia.org/wiki/Wikipedia:Large_language_models&lt;/a&gt;

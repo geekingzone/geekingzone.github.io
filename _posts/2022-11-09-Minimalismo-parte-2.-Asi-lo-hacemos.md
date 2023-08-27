@@ -12,13 +12,13 @@ tags: [episode]
 <p>Participa con nosotros, y en unas semanas compartiremos la experiencia.</p>
 <p>Música con licencias Creative Commons:</p>
 <ul>
- <li>Introducción sonora: Man Outta Town by Forget the Whale (via freemusicarchive.org)</li>
- <li>Cotinilla intermedia: African Bliss by John Bartmann (via freemusicarchive.org)</li>
-  <li>Cortinilla de cierre: Rome (Capricorn) by RENAE (via jamendo.com)</li>
+<li>Introducción sonora: Man Outta Town by Forget the Whale (via freemusicarchive.org)</li>
+<li>Cotinilla intermedia: African Bliss by John Bartmann (via freemusicarchive.org)</li>
+<li>Cortinilla de cierre: Rome (Capricorn) by RENAE (via jamendo.com)</li>
 </ul>
 <p>¡Únete a nuestro canal de Gee King Zone Podcast en Discord!</p>
 <p>También a nuestra comunidad en Telegram</p>
 <p>Además, cualquier comentario es bienvenido y agradecido en GeeKingZone@proton.me</p>
 <p>Y por supuesto, en mastodon: @GeeKingZone@mastodon.social</p>
-<p>Y nuestra web: https://geekingzone.codeberg.page</p>
+<p>Y nuestra web: &lt;a href="https://geekingzone.codeberg.page"&gt;https://geekingzone.codeberg.page&lt;/a&gt;</p>
 <p>Os esperamos...</p>

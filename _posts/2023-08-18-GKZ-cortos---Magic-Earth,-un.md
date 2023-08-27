@@ -8,4 +8,4 @@ share-img: /assets/img/path.jpg
 tags: [episode]
 ---
 
-En este capítulo, os cuento mi experiencia con Magic Earth, un navegador de la empresa que creó en su momento Route 66 y quedando un cambio de rumbo en su modelo de negocio, está ofreciendo este producto bastante interesante. Podéis leer sobre ella en este artículo de El https://motor.elpais.com/tecnologia/la-app-de-la-que-todos-hablan-que-tiene-de-especial-el-rival-de-google-maps-y-waze/
+En este capítulo, os cuento mi experiencia con Magic Earth, un navegador de la empresa que creó en su momento Route 66 y quedando un cambio de rumbo en su modelo de negocio, está ofreciendo este producto bastante interesante. Podéis leer sobre ella en este artículo de El &lt;a href="https://motor.elpais.com/tecnologia/la-app-de-la-que-todos-hablan-que-tiene-de-especial-el-rival-de-google-maps-y-waze/"&gt;https://motor.elpais.com/tecnologia/la-app-de-la-que-todos-hablan-que-tiene-de-especial-el-rival-de-google-maps-y-waze/&lt;/a&gt;

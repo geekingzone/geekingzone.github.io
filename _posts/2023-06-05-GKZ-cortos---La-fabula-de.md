@@ -8,4 +8,4 @@ share-img: /assets/img/path.jpg
 tags: [episode]
 ---
 
-Aquí un enlace a la noticia: https://www.infobae.com/estados-unidos/2023/06/02/la-verdad-detras-de-la-historia-que-indico-que-un-drone-controlado-por-inteligencia-artificial-mato-a-su-operador-durante-una-simulacion/
+Aquí un enlace a la noticia: &lt;a href="https://www.infobae.com/estados-unidos/2023/06/02/la-verdad-detras-de-la-historia-que-indico-que-un-drone-controlado-por-inteligencia-artificial-mato-a-su-operador-durante-una-simulacion/"&gt;https://www.infobae.com/estados-unidos/2023/06/02/la-verdad-detras-de-la-historia-que-indico-que-un-drone-controlado-por-inteligencia-artificial-mato-a-su-operador-durante-una-simulacion/&lt;/a&gt;

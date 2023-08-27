@@ -10,14 +10,14 @@ tags: [episode]
 
 Serie de episodios cortos y sobre la marcha.
 Hablamos sobre experiencias personales en relación con la capacidad de atención, y de alternativas para guardarnos lecturas para nuestro mejor momento del día:
-Instapaper: https://www.instapaper.com
-Pocket: https://getpocket.com
-Wallabag: https://github.com/wallabag/wallabag
-Reader (Readwise): https://readwise.io/read
+Instapaper: &lt;a href="https://www.instapaper.com"&gt;https://www.instapaper.com&lt;/a&gt;
+Pocket: &lt;a href="https://getpocket.com"&gt;https://getpocket.com&lt;/a&gt;
+Wallabag: &lt;a href="https://github.com/wallabag/wallabag"&gt;https://github.com/wallabag/wallabag&lt;/a&gt;
+Reader (Readwise): &lt;a href="https://readwise.io/read"&gt;https://readwise.io/read&lt;/a&gt;
 Cualquier duda, estamos en los canales habituales.
-¡Únete a nuestro canal de Gee King Zone Podcast en Discord! https://discord.gg/V6FFxKw9
-También queremos hacer comunidad en Telegram https://t.me/GeeKingZone
+¡Únete a nuestro canal de Gee King Zone Podcast en Discord! &lt;a href="https://discord.gg/V6FFxKw9"&gt;https://discord.gg/V6FFxKw9&lt;/a&gt;
+También queremos hacer comunidad en Telegram &lt;a href="https://t.me/GeeKingZone"&gt;https://t.me/GeeKingZone&lt;/a&gt;
 Además, cualquier comentario es bienvenido y agradecido en GeeKingZone@proton.me
 Y por supuesto, en mastodon: @GeeKingZone@mastodon.social
-Y nuestra web: https://geekingzone.codeberg.page
+Y nuestra web: &lt;a href="https://geekingzone.codeberg.page"&gt;https://geekingzone.codeberg.page&lt;/a&gt;
 Os esperamos...

@@ -8,4 +8,4 @@ share-img: /assets/img/path.jpg
 tags: [episode]
 ---
 
-Uno de los grandes se ha ido para siempre. Pero su legado quedará siempre en nuestras máquinas y en nuestros corazones. DEP https://en.m.wikipedia.org/wiki/Bram_Moolenaar
+Uno de los grandes se ha ido para siempre. Pero su legado quedará siempre en nuestras máquinas y en nuestros corazones. DEP &lt;a href="https://en.m.wikipedia.org/wiki/Bram_Moolenaar"&gt;https://en.m.wikipedia.org/wiki/Bram_Moolenaar&lt;/a&gt;

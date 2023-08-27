@@ -51,10 +51,10 @@ Música con licencias Creative Commons:
 
 
 ¡Únete a nuestro nuevo canal en Discord de Gee King Zone Podcast!
-También a nuestra comunidad en Telegram, accesible desde https://t.me/GeeKingZone
+También a nuestra comunidad en Telegram, accesible desde &lt;a href="https://t.me/GeeKingZone"&gt;https://t.me/GeeKingZone&lt;/a&gt;
 
 Además, cualquier comentario es bienvenido y agradecido en [GeeKingZone@protonmail.com](mailto:GeeKingZone@protonmail.com).
 
-Y nuestra web: [https://geekingzone.codeberg.page](https://geekingzone.codeberg.page)
+Y nuestra web: [&lt;a href="https://geekingzone.codeberg.page](https://geekingzone.codeberg.page)"&gt;https://geekingzone.codeberg.page](https://geekingzone.codeberg.page)&lt;/a&gt;
 
 Os esperamos

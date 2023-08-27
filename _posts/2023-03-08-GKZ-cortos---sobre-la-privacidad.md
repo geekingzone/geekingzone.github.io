@@ -10,11 +10,11 @@ tags: [episode]
 
 <p>Serie de episodios cortos y sobre la marcha.</p>
 <p>Os comento algunas consideraciones sobre la privacidad de la aplicación WhatsApp.</p>
-<p><br /></p>
+<p><br/></p>
 <p>Cualquier duda, estamos en los canales habituales.</p>
-<p>¡Únete a nuestro canal de Gee King Zone Podcast en Telegram https://t.me/GeeKingZone</p>
+<p>¡Únete a nuestro canal de Gee King Zone Podcast en Telegram &lt;a href="https://t.me/GeeKingZone"&gt;https://t.me/GeeKingZone&lt;/a&gt;</p>
 <p>(El canal de Discord lo hemos cerrado. Sentimos las molestias 😉)</p>
 <p>Además, cualquier comentario es bienvenido y agradecido en GeeKingZone@proton.me</p>
 <p>Y por supuesto, en mastodon: @GeeKingZone@mastodon.social</p>
-<p>Y nuestra web: https://geekingzone.codeberg.page (que por cierto, tenemos que actualizar).</p>
+<p>Y nuestra web: &lt;a href="https://geekingzone.codeberg.page"&gt;https://geekingzone.codeberg.page&lt;/a&gt; (que por cierto, tenemos que actualizar).</p>
 <p>Os esperamos...</p>

@@ -14,7 +14,7 @@ Podemos hacerlo gracias al servicio gratuito Colab de investigación de Google:
  Maquinas con GPU
 
 
- Link: https://colab.research.google.com/github/Stability-AI/StableSwarmUI/blob/master/colab/colab-notebook.ipynb
+ Link: &lt;a href="https://colab.research.google.com/github/Stability-AI/StableSwarmUI/blob/master/colab/colab-notebook.ipynb"&gt;https://colab.research.google.com/github/Stability-AI/StableSwarmUI/blob/master/colab/colab-notebook.ipynb&lt;/a&gt;
 
 
- Mucha mas información en el canal de Dot CSV: https://youtu.be/cS3-5vMxjVE?t=501
+ Mucha mas información en el canal de Dot CSV: &lt;a href="https://youtu.be/cS3-5vMxjVE?t=501"&gt;https://youtu.be/cS3-5vMxjVE?t=501&lt;/a&gt;

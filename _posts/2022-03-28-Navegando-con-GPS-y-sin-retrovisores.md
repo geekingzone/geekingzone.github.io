@@ -12,7 +12,7 @@ Tras demasiado tiempo sin grabar, nos embarcamos en un nuevo episodio y charlamo
 Hemos llegado a las 500 descargas, ¡¡¡¡Muchas gracias!!!!
 Actualizamos el formato del podcast con una sección de noticias recientes relacionadas de alguna manera con temas que ya hemos abordado.
 # EL COMENTARIO DE LA NOTICIA
-En esta primera entrada de la sección, comentamos esta noticia de la BBC: https://www.bbc.com/news/world-60029508 y la enlazamos en el servicio  CSAM anunciado por Apple en agosto de 2021.
+En esta primera entrada de la sección, comentamos esta noticia de la BBC: &lt;a href="https://www.bbc.com/news/world-60029508"&gt;https://www.bbc.com/news/world-60029508&lt;/a&gt; y la enlazamos en el servicio  CSAM anunciado por Apple en agosto de 2021.
 Enlaces comentados en el episodio:
 
  Comparación de los sistemas en Wikipedia
@@ -30,7 +30,7 @@ Música con licencias Creative Commons:
   Rome (Capricorn) by RENAE (via jamendo.com)
 
 ¡Únete a nuestro nuevo canal en Discord de Gee King Zone Podcast!
-También a nuestra comunidad en Telegram, accesible desde https://t.me/GeeKingZone
+También a nuestra comunidad en Telegram, accesible desde &lt;a href="https://t.me/GeeKingZone"&gt;https://t.me/GeeKingZone&lt;/a&gt;
 Además, cualquier comentario es bienvenido y agradecido en GeeKingZone@protonmail.com.
-Y nuestra web: https://geekingzone.codeberg.page
+Y nuestra web: &lt;a href="https://geekingzone.codeberg.page"&gt;https://geekingzone.codeberg.page&lt;/a&gt;
 Os esperamos

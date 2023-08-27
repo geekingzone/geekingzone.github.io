@@ -12,18 +12,18 @@ tags: [episode]
 <p>Claves, Cronología, Curiosidades, y Cavilaciones (o Preocupaciones)</p>
 <p>Hoy superamos la hora con las cabeceras, pero el tema lo merece!</p>
 <p>Enlaces a los artículos citados:</p>
-<p>OpenAI Charter (Principios de la Compañía): https://openai.com/charter/</p>
-<p>The messy, secretive reality behind OpenAI’s bid to save the world: https://www.technologyreview.com/2020/02/17/844721/ai-openai-moonshot-elon-musk-sam-altman-greg-brockman-messy-secretive-reality</p>
-<p>OpenAI Business Model: https://fourweekmba.com/openai/</p>
-<p>Artificial General Inteligence (AGI): https://en.m.wikipedia.org/wiki/Artificial_general_intelligence</p>
+<p>OpenAI Charter (Principios de la Compañía): &lt;a href="https://openai.com/charter/"&gt;https://openai.com/charter/&lt;/a&gt;</p>
+<p>The messy, secretive reality behind OpenAI’s bid to save the world: &lt;a href="https://www.technologyreview.com/2020/02/17/844721/ai-openai-moonshot-elon-musk-sam-altman-greg-brockman-messy-secretive-reality"&gt;https://www.technologyreview.com/2020/02/17/844721/ai-openai-moonshot-elon-musk-sam-altman-greg-brockman-messy-secretive-reality&lt;/a&gt;</p>
+<p>OpenAI Business Model: &lt;a href="https://fourweekmba.com/openai/"&gt;https://fourweekmba.com/openai/&lt;/a&gt;</p>
+<p>Artificial General Inteligence (AGI): &lt;a href="https://en.m.wikipedia.org/wiki/Artificial_general_intelligence"&gt;https://en.m.wikipedia.org/wiki/Artificial_general_intelligence&lt;/a&gt;</p>
 <p>Música con licencias Creative Commons:</p>
 <ul>
- <li>Introducción sonora: Man Outta Town (Instrumental) by Forget the Whale (via freemusicarchive.org)</li>
- <li>Cortinilla de cierre: Rome (Capricorn) by RENAE (via jamendo.com)</li>
+<li>Introducción sonora: Man Outta Town (Instrumental) by Forget the Whale (via freemusicarchive.org)</li>
+<li>Cortinilla de cierre: Rome (Capricorn) by RENAE (via jamendo.com)</li>
 </ul>
 <p>¡Únete a nuestro canal de Gee King Zone Podcast en Discord!</p>
 <p>También a nuestra comunidad en Telegram</p>
 <p>Además, cualquier comentario es bienvenido y agradecido en GeeKingZone@proton.me</p>
-<p>Y por supuesto, en mastodon: https://mastodon.social/@GeeKingZone</p>
-<p>Y nuestra web: https://geekingzone.codeberg.page</p>
+<p>Y por supuesto, en mastodon: &lt;a href="https://mastodon.social/@GeeKingZone"&gt;https://mastodon.social/@GeeKingZone&lt;/a&gt;</p>
+<p>Y nuestra web: &lt;a href="https://geekingzone.codeberg.page"&gt;https://geekingzone.codeberg.page&lt;/a&gt;</p>
 <p>Os esperamos...</p>
