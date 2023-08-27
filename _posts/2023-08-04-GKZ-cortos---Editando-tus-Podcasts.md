@@ -8,4 +8,4 @@ share-img: /assets/img/path.jpg
 tags: [episode]
 ---
 
-<p>Pues eso. En este episodio jugamos con la edición para enseñarte cómo ahorrarte 1h de edición en tu próximo episodio gracias a la herramienta "Enhance speech" de Adobe: <a href="[https://podcast.adobe.com/enhance](https://podcast.adobe.com/enhance)">⁠[https://podcast.adobe.com/enhance](https://podcast.adobe.com/enhance)#⁠</a></p>
+<p>Pues eso. En este episodio jugamos con la edición para enseñarte cómo ahorrarte 1h de edición en tu próximo episodio gracias a la herramienta &quot;Enhance speech&quot; de Adobe: <a href="[https://podcast.adobe.com/enhance](https://podcast.adobe.com/enhance)">⁠[https://podcast.adobe.com/enhance](https://podcast.adobe.com/enhance)#⁠</a></p>

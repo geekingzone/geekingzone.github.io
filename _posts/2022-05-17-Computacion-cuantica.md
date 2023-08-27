@@ -15,10 +15,10 @@ tags: [episode]
 <p>Música con licencias Creative Commons:</p>
 <p>- Outa Town by Forget the Whale (via freemusicarchive.org)</p>
 <p>- African Bliss by John Bartmann (via freemusicarchive.org)</p>
-<p>- Rome (Capricorn) by RENAE (via jamendo.com) </p>
+<p>- Rome (Capricorn) by RENAE (via jamendo.com)&nbsp;</p>
 <p><br /></p>
 <p>¡Únete a nuestro canal de Gee King Zone Podcast en Discord!</p>
-<p>También a nuestra comunidad en Telegram </p>
+<p>También a nuestra comunidad en Telegram&nbsp;</p>
 <p>Además, cualquier comentario es bienvenido y agradecido en GeeKingZone@proton.me</p>
 <p>Y nuestra web: [https://geekingzone.codeberg.page</p>](https://geekingzone.codeberg.page</p>)
 <p><br /></p>

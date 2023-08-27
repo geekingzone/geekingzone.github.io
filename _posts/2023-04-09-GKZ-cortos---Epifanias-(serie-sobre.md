@@ -12,7 +12,7 @@ tags: [episode]
 <p><br /></p>
 <p>Hablamos sobre un proceso de aprendizaje con Reader de Readwise (Link con un mes de prueba <a href="[https://readwise.io/i/fili_busteo](https://readwise.io/i/fili_busteo)" rel="noopener noreferer" target="_blank">[https://readwise.io/i/fili_busteo</a>)](https://readwise.io/i/fili_busteo</a>)) y Obsidian (<a href="[https://obsidian.md](https://obsidian.md)" rel="noopener noreferer" target="_blank">[https://obsidian.md</a>).</p>](https://obsidian.md</a>).</p>)
 <p><br /></p>
-<p>Tambien sobre el discurso de David Foster Wallace "This is water" (<a href="[https://youtu.be/b-6yiuCkXwU](https://youtu.be/b-6yiuCkXwU)" rel="noopener noreferer" target="_blank">[https://youtu.be/b-6yiuCkXwU</a>)</p>](https://youtu.be/b-6yiuCkXwU</a>)</p>)
+<p>Tambien sobre el discurso de David Foster Wallace &quot;This is water&quot; (<a href="[https://youtu.be/b-6yiuCkXwU](https://youtu.be/b-6yiuCkXwU)" rel="noopener noreferer" target="_blank">[https://youtu.be/b-6yiuCkXwU</a>)</p>](https://youtu.be/b-6yiuCkXwU</a>)</p>)
 <p><br /></p>
 <p>Cualquier duda, estamos en los canales habituales.</p>
 <p>¡Únete a nuestro canal de Gee King Zone Podcast en Telegram [https://t.me/GeeKingZone</p>](https://t.me/GeeKingZone</p>)

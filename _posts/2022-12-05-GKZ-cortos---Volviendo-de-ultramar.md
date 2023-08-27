@@ -8,12 +8,12 @@ share-img: /assets/img/path.jpg
 tags: [episode]
 ---
 
-<p>Serie de episodios cortos y sobre la marcha.  </p>
+<p>Serie de episodios cortos y sobre la marcha. &nbsp;</p>
 <p>Volviendo de ultramar.</p>
 <p>Podcast "sobre la marcha": [https://anchor.fm/gvisoc</p>](https://anchor.fm/gvisoc</p>)
-<p>¡Únete a nuestro canal de Gee King Zone Podcast en Discord! [https://discord.gg/V6FFxKw9](https://discord.gg/V6FFxKw9) </p>
-<p>También queremos hacer comunidad en Telegram [https://t.me/GeeKingZone](https://t.me/GeeKingZone) </p>
-<p>Además, cualquier comentario es bienvenido y agradecido en GeeKingZone@proton.me </p>
-<p>Y por supuesto, en mastodon: @GeeKingZone@mastodon.social </p>
-<p>Y nuestra web: [https://geekingzone.codeberg.page](https://geekingzone.codeberg.page) </p>
+<p>¡Únete a nuestro canal de Gee King Zone Podcast en Discord! [https://discord.gg/V6FFxKw9&nbsp;</p>](https://discord.gg/V6FFxKw9&nbsp;</p>)
+<p>También queremos hacer comunidad en Telegram [https://t.me/GeeKingZone&nbsp;</p>](https://t.me/GeeKingZone&nbsp;</p>)
+<p>Además, cualquier comentario es bienvenido y agradecido en GeeKingZone@proton.me&nbsp;</p>
+<p>Y por supuesto, en mastodon: @GeeKingZone@mastodon.social&nbsp;</p>
+<p>Y nuestra web: [https://geekingzone.codeberg.page&nbsp;</p>](https://geekingzone.codeberg.page&nbsp;</p>)
 <p>Os esperamos...</p>
