@@ -11,4 +11,4 @@ tags: [episode]
 Toma falsa
 
 Creditos: Swan Song by Paper Navy (via freemusicarchive.org)
-<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/embed/episodes/Toma-falsa-e1cc4c4' height='204px' width='800px' frameborder='0' scrolling='no'></iframe>
+<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/embed/episodes/Toma-falsa-e1cc4c4' height='204px' width='400px' frameborder='0' scrolling='no'></iframe>

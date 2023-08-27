@@ -21,4 +21,4 @@ Música con licencias Creative Commons:
 Cualquier comentario es bienvenido y agradecido en GeeKingZone@protonmail.com o a través de Telegram.
 Únete a nuestra comunidad en Telegram, accesible desde [https://t.me/GeeKingZone](https://t.me/GeeKingZone)
 Os esperamos.
-<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/embed/episodes/Metapodcast-e146d0h' height='204px' width='800px' frameborder='0' scrolling='no'></iframe>
+<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/embed/episodes/Metapodcast-e146d0h' height='204px' width='400px' frameborder='0' scrolling='no'></iframe>

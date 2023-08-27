@@ -18,4 +18,4 @@ Además, cualquier comentario es bienvenido y agradecido en GeeKingZone@proton.m
 Y por supuesto, en mastodon: @GeeKingZone@mastodon.social
 Y nuestra web: [https://geekingzone.codeberg.page](https://geekingzone.codeberg.page)
 Os esperamos...
-<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/embed/episodes/GKZ-cortos---Software-espia-e1r3nfg' height='204px' width='800px' frameborder='0' scrolling='no'></iframe>
+<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/embed/episodes/GKZ-cortos---Software-espia-e1r3nfg' height='204px' width='400px' frameborder='0' scrolling='no'></iframe>

@@ -33,4 +33,4 @@ También a nuestra comunidad en Telegram, accesible desde [https://t.me/GeeKingZ
 Además, cualquier comentario es bienvenido y agradecido en [GeeKingZone@protonmail.com](mailto:GeeKingZone@protonmail.com).
 Y nuestra web: [[https://geekingzone.codeberg.page](https://geekingzone.codeberg.page)](https://geekingzone.codeberg.page](https://geekingzone.codeberg.page))
 Os esperamos
-<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/embed/episodes/El-mtodo-de-los-sobres-e1e4hfb' height='204px' width='800px' frameborder='0' scrolling='no'></iframe>
+<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/embed/episodes/El-mtodo-de-los-sobres-e1e4hfb' height='204px' width='400px' frameborder='0' scrolling='no'></iframe>
