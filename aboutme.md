@@ -12,3 +12,5 @@ Puedes contactar con nosotros por los siguientes medios:
 
 - Telegram: https://t.me/GeeKingZone
 - Mastodon: https://mastodon.social/@GeeKingZone
+
+Y en nuestra página web: https://geekingzone.github.io
