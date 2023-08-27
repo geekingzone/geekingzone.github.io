@@ -33,8 +33,8 @@ Música con licencias Creative Commons:
 
 Cualquier comentario es bienvenido y agradecido en GeeKingZone@protonmail.com o a través de Telegram.
 
-Únete a nuestra comunidad en Telegram, accesible desde &lt;a href="https://t.me/GeeKingZone"&gt;https://t.me/GeeKingZone&lt;/a&gt;
+Únete a nuestra comunidad en Telegram, accesible desde [https://t.me/GeeKingZone](https://t.me/GeeKingZone)
 
-Y nuestra web: &lt;a href="https://geekingzone.codeberg.page"&gt;https://geekingzone.codeberg.page&lt;/a&gt;
+Y nuestra web: [https://geekingzone.codeberg.page](https://geekingzone.codeberg.page)
 
 Os esperamos

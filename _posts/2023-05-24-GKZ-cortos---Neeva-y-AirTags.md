@@ -8,4 +8,4 @@ share-img: /assets/img/path.jpg
 tags: [episode]
 ---
 
-Episodio corto donde hablamos sobre el buscador Neeva y el efecto perverso de utilizar un Air Tag con un plan familiar. Podcast Nada que Ganar: &lt;a href="https://nada-que-ganar.simplecast.com"&gt;https://nada-que-ganar.simplecast.com&lt;/a&gt;
+Episodio corto donde hablamos sobre el buscador Neeva y el efecto perverso de utilizar un Air Tag con un plan familiar. Podcast Nada que Ganar: [https://nada-que-ganar.simplecast.com](https://nada-que-ganar.simplecast.com)

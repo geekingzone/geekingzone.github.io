@@ -31,6 +31,6 @@ African Bliss by John Bartmann (via freemusicarchive.org)
 Man Outa Town by Forget the Whale (via freemusicarchive.org)
 
 Cualquier comentario es bienvenido y agradecido en GeeKingZone@protonmail.com o a través de Telegram.
-Únete a nuestra comunidad en Telegram, accesible desde &lt;a href="https://t.me/GeeKingZone"&gt;https://t.me/GeeKingZone&lt;/a&gt;
+Únete a nuestra comunidad en Telegram, accesible desde [https://t.me/GeeKingZone](https://t.me/GeeKingZone)
 
 Os esperamos.

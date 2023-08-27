@@ -19,5 +19,5 @@ Música con licencias Creative Commons:
  Rome (Capricorn) by RENAE (via jamendo.com)
 
 Cualquier comentario es bienvenido y agradecido en GeeKingZone@protonmail.com o a través de Telegram.
-Únete a nuestra comunidad en Telegram, accesible desde &lt;a href="https://t.me/GeeKingZone"&gt;https://t.me/GeeKingZone&lt;/a&gt;
+Únete a nuestra comunidad en Telegram, accesible desde [https://t.me/GeeKingZone](https://t.me/GeeKingZone)
 Os esperamos.

@@ -10,23 +10,23 @@ tags: [episode]
 
 Hoy analizamos y buscamos soluciones a momento "Podfade" que estamos sufriendo en Gee King Zone.
 
-Gracias, Emilcar por tu episodio de Promopodcast sobre este asunto &lt;a href="https://emilcar.fm/2019/01/09/podfade"&gt;https://emilcar.fm/2019/01/09/podfade&lt;/a&gt;
+Gracias, Emilcar por tu episodio de Promopodcast sobre este asunto [https://emilcar.fm/2019/01/09/podfade](https://emilcar.fm/2019/01/09/podfade)
 
 Hacemos mención del podcast Radio Skylab, que os recomendamos si os interesa el espacio y los astronáutica.
 
-También hacemos mención a la serie Machos alfa: &lt;a href="https://www.netflix.com/title/81559021"&gt;https://www.netflix.com/title/81559021&lt;/a&gt;
+También hacemos mención a la serie Machos alfa: [https://www.netflix.com/title/81559021](https://www.netflix.com/title/81559021)
 
 Música con licencias Creative Commons:
-Introducción del falso inicio: Man Outta Town by Forget the Whale (&lt;a href="https://freemusicarchive.org/music/Forget_the_Whale/you-me-talk-now/man-outta-town-instrumental-1)"&gt;https://freemusicarchive.org/music/Forget_the_Whale/you-me-talk-now/man-outta-town-instrumental-1)&lt;/a&gt;
-Cotinilla intermedia: all grown up by Paper Navy (&lt;a href="https://papernavy.bandcamp.com/album/all-grown-up)"&gt;https://papernavy.bandcamp.com/album/all-grown-up)&lt;/a&gt;
-Cortinilla de cierre: Rome (Capricorn) by RENAE (&lt;a href="https://www.jamendo.com/track/1825610/rome-capricorn)"&gt;https://www.jamendo.com/track/1825610/rome-capricorn)&lt;/a&gt;
+Introducción del falso inicio: Man Outta Town by Forget the Whale ([https://freemusicarchive.org/music/Forget_the_Whale/you-me-talk-now/man-outta-town-instrumental-1)](https://freemusicarchive.org/music/Forget_the_Whale/you-me-talk-now/man-outta-town-instrumental-1))
+Cotinilla intermedia: all grown up by Paper Navy ([https://papernavy.bandcamp.com/album/all-grown-up)](https://papernavy.bandcamp.com/album/all-grown-up))
+Cortinilla de cierre: Rome (Capricorn) by RENAE ([https://www.jamendo.com/track/1825610/rome-capricorn)](https://www.jamendo.com/track/1825610/rome-capricorn))
 
-Este capítulo está codificado con Forecast &lt;a href="https://overcast.fm/forecast"&gt;https://overcast.fm/forecast&lt;/a&gt;
+Este capítulo está codificado con Forecast [https://overcast.fm/forecast](https://overcast.fm/forecast)
 
 ¡Únete a nuestro comunidad Gee King Zone Podcast en Telegram!
 
 Además, cualquier comentario es bienvenido y agradecido en GeeKingZone@proton.me
 Y por supuesto, en mastodon: @GeeKingZone@mastodon.social
-Y nuestra web: &lt;a href="https://geekingzone.codeberg.page"&gt;https://geekingzone.codeberg.page&lt;/a&gt;
+Y nuestra web: [https://geekingzone.codeberg.page](https://geekingzone.codeberg.page)
 
 Os esperamos...

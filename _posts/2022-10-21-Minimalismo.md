@@ -11,19 +11,19 @@ tags: [episode]
 <p>¿Estamos muy conectados?</p>
 <p>Te animamos a hacer un ejercicio un par de días con tus dispositivos digitales:</p>
 <ol>
-<li>Desactiva tus notificaciones (menos las necesarias)</li>
-<li>Deja lo esencial</li>
-<li>Despeja tu pantalla/escritorio</li>
+ <li>Desactiva tus notificaciones (menos las necesarias)</li>
+ <li>Deja lo esencial</li>
+  <li>Despeja tu pantalla/escritorio</li>
 </ol>
 <p>Participa con nosotros, y en unas semanas compartiremos la experiencia.</p>
 <p>Música con licencias Creative Commons:</p>
 <ul>
-<li>Man Outta Town by Forget the Whale (via freemusicarchive.org)</li>
-<li>Rome (Capricorn) by RENAE (via jamendo.com)</li>
+  <li>Man Outta Town by Forget the Whale (via freemusicarchive.org)</li>
+  <li>Rome (Capricorn) by RENAE (via jamendo.com)</li>
 </ul>
 <p>¡Únete a nuestro canal de Gee King Zone Podcast en Discord!</p>
 <p>También a nuestra comunidad en Telegram</p>
 <p>Además, cualquier comentario es bienvenido y agradecido en GeeKingZone@proton.me</p>
-<p>Y nuestra web: &lt;a href="https://geekingzone.codeberg.page"&gt;https://geekingzone.codeberg.page&lt;/a&gt;</p>
+<p>Y nuestra web: [https://geekingzone.codeberg.page</p>](https://geekingzone.codeberg.page</p>)
 <p>Os esperamos...</p>
-<p><br/></p>
+<p><br /></p>

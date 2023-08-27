@@ -12,8 +12,8 @@ tags: [episode]
 Gracias a todos por volveros a pasar por aquí. Hoy hablamos de contraseñas, y de nuestra manera de gestionarlas. Esperamos que os ayude y os sea interesante.
 Mencionamos la búsqueda en google con el modo Hacker y Klingon. Aquí tenéis los enlaces:
 
- Hacker: &lt;a href="https://www.google.com/?hl=xx-hacker"&gt;https://www.google.com/?hl=xx-hacker&lt;/a&gt;
- Klingon: &lt;a href="https://www.google.com/?hl=tlh-ES"&gt;https://www.google.com/?hl=tlh-ES&lt;/a&gt;
+ Hacker: [https://www.google.com/?hl=xx-hacker](https://www.google.com/?hl=xx-hacker)
+ Klingon: [https://www.google.com/?hl=tlh-ES](https://www.google.com/?hl=tlh-ES)
 
 ¡Muchas gracias por estar ahí, esperamos que os guste!
 Música con licencias Creative Commons:
@@ -24,7 +24,7 @@ Música con licencias Creative Commons:
  Rome (Capricorn) by RENAE (via jamendo.com)
 
 Cualquier comentario es bienvenido y agradecido en GeeKingZone@protonmail.com o a través de Telegram.
-Únete a nuestra comunidad en Telegram, accesible desde &lt;a href="https://t.me/GeeKingZone"&gt;https://t.me/GeeKingZone&lt;/a&gt;
-Y nuestra web: &lt;a href="https://geekingzone.codeberg.page"&gt;https://geekingzone.codeberg.page&lt;/a&gt;
+Únete a nuestra comunidad en Telegram, accesible desde [https://t.me/GeeKingZone](https://t.me/GeeKingZone)
+Y nuestra web: [https://geekingzone.codeberg.page](https://geekingzone.codeberg.page)
 Os esperamos
 (Nota: este episodio fue titulado inicialmente como "Cual era mi password" pero decidimos cambiarle el título el 15/09/2021)

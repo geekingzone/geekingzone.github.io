@@ -22,5 +22,5 @@ Musica con licencias Creative Commons:
 
 
 Cualquier comentario es bienvenido en GeeKingZone@protonmail.com
-Únete a nuestra comunidad en Telegram, accesible desde &lt;a href="https://t.me/GeeKingZone."&gt;https://t.me/GeeKingZone.&lt;/a&gt;
+Únete a nuestra comunidad en Telegram, accesible desde [https://t.me/GeeKingZone.](https://t.me/GeeKingZone.)
 Os esperamos.

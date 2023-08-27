@@ -13,13 +13,13 @@ Comentamos nuestras experiencias en la gestión de nuestras finanzas personales
 Comentamos aplicaciones como GNUCash y MoneyDance.
 
 Charlamos sobre el método de los sobres y cómo poder gestionarlo con la ayuda de la aplicación Buckets.
-&lt;a href="https://www.budgetwithbuckets.com"&gt;https://www.budgetwithbuckets.com&lt;/a&gt;
+[https://www.budgetwithbuckets.com](https://www.budgetwithbuckets.com)
 
 También comentamos este servicio bajo suscripción que implementa este mismo método: YNAB.
-&lt;a href="https://www.youneedabudget.com"&gt;https://www.youneedabudget.com&lt;/a&gt;
+[https://www.youneedabudget.com](https://www.youneedabudget.com)
 
 Y si os gustan las emociones fuertes os podéis servir vosotros mismos una aplicación de finanzas en vuestra Raspberry Pi con FireFly III
-&lt;a href="https://www.firefly-iii.org"&gt;https://www.firefly-iii.org&lt;/a&gt;
+[https://www.firefly-iii.org](https://www.firefly-iii.org)
 
 Música con licencias Creative Commons:
 
@@ -29,7 +29,7 @@ Música con licencias Creative Commons:
  Rome (Capricorn) by RENAE (via jamendo.com)
 
 ¡Únete a nuestro nuevo canal en Discord de Gee King Zone Podcast!
-También a nuestra comunidad en Telegram, accesible desde &lt;a href="https://t.me/GeeKingZone"&gt;https://t.me/GeeKingZone&lt;/a&gt;
+También a nuestra comunidad en Telegram, accesible desde [https://t.me/GeeKingZone](https://t.me/GeeKingZone)
 Además, cualquier comentario es bienvenido y agradecido en [GeeKingZone@protonmail.com](mailto:GeeKingZone@protonmail.com).
-Y nuestra web: [&lt;a href="https://geekingzone.codeberg.page](https://geekingzone.codeberg.page)"&gt;https://geekingzone.codeberg.page](https://geekingzone.codeberg.page)&lt;/a&gt;
+Y nuestra web: [[https://geekingzone.codeberg.page](https://geekingzone.codeberg.page)](https://geekingzone.codeberg.page](https://geekingzone.codeberg.page))
 Os esperamos

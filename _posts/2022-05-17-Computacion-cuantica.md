@@ -10,16 +10,16 @@ tags: [episode]
 
 <p>En este nuevo episodio, nos lanzamos con la Computación Cuántica</p>
 <p>Este episodio ha pasado por varios estado intermedios en los que el episodio existía y no existía a la vez... pero al final, aquí está. Esperamos que disfrutéis de este resultado de los algoritmos cuánticos de la edición podcasteril.</p>
-<p><br/></p>
-<p><br/></p>
+<p><br /></p>
+<p><br /></p>
 <p>Música con licencias Creative Commons:</p>
 <p>- Outa Town by Forget the Whale (via freemusicarchive.org)</p>
 <p>- African Bliss by John Bartmann (via freemusicarchive.org)</p>
-<p>- Rome (Capricorn) by RENAE (via jamendo.com) </p>
-<p><br/></p>
+<p>- Rome (Capricorn) by RENAE (via jamendo.com)&nbsp;</p>
+<p><br /></p>
 <p>¡Únete a nuestro canal de Gee King Zone Podcast en Discord!</p>
-<p>También a nuestra comunidad en Telegram </p>
+<p>También a nuestra comunidad en Telegram&nbsp;</p>
 <p>Además, cualquier comentario es bienvenido y agradecido en GeeKingZone@proton.me</p>
-<p>Y nuestra web: &lt;a href="https://geekingzone.codeberg.page"&gt;https://geekingzone.codeberg.page&lt;/a&gt;</p>
-<p><br/></p>
+<p>Y nuestra web: [https://geekingzone.codeberg.page</p>](https://geekingzone.codeberg.page</p>)
+<p><br /></p>
 <p>Os esperamos...</p>
