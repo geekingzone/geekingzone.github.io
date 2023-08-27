@@ -25,3 +25,4 @@ Cualquier comentario es bienvenido en GeeKingZone@protonmail.com
 Únete a nuestra comunidad en Telegram, accesible desde [https://t.me/GeeKingZone.](https://t.me/GeeKingZone.) 
 
 Os esperamos.
+<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/episodes/Gatillazo-e10ehtp' height='204px' width='800px' frameborder='0' scrolling='no'></iframe>

@@ -18,3 +18,4 @@ Podemos hacerlo gracias al servicio gratuito Colab de investigación de Google:
 
 
  Mucha mas información en el canal de Dot CSV: [https://youtu.be/cS3-5vMxjVE?t=501](https://youtu.be/cS3-5vMxjVE?t=501)
+<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/episodes/GKZ-cortos---generando-imgenes-con-IA-sin-tener-una-GPU-en-casa-e27pheb' height='204px' width='800px' frameborder='0' scrolling='no'></iframe>

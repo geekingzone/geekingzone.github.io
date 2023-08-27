@@ -22,3 +22,4 @@ tags: [episode]
 <p>Y por supuesto, en mastodon: @GeeKingZone@mastodon.social</p>
 <p>Y nuestra web: [https://geekingzone.codeberg.page</p>](https://geekingzone.codeberg.page</p>)
 <p>Os esperamos...</p>
+<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/episodes/Minimalismo-parte-2--As-lo-hacemos-nosotros-e1qgbho' height='204px' width='800px' frameborder='0' scrolling='no'></iframe>

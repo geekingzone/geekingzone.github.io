@@ -38,3 +38,4 @@ Cualquier comentario es bienvenido y agradecido en GeeKingZone@protonmail.com o 
 Y nuestra web: [https://geekingzone.codeberg.page](https://geekingzone.codeberg.page)
 
 Os esperamos
+<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/episodes/Juegos-de-Guerra-War-Games-e19ovpq' height='204px' width='800px' frameborder='0' scrolling='no'></iframe>

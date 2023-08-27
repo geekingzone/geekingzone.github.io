@@ -20,3 +20,4 @@ tags: [episode]
 <p>Además, cualquier comentario es bienvenido y agradecido en GeeKingZone@proton.me</p>
 <p>Y nuestra web: [https://geekingzone.codeberg.page</p>](https://geekingzone.codeberg.page</p>)
 <p>Os esperamos...</p>
+<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/episodes/Calentando-motores-e1omqdk' height='204px' width='800px' frameborder='0' scrolling='no'></iframe>

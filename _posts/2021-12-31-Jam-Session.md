@@ -58,3 +58,4 @@ Además, cualquier comentario es bienvenido y agradecido en [GeeKingZone@protonm
 Y nuestra web: [[https://geekingzone.codeberg.page](https://geekingzone.codeberg.page)](https://geekingzone.codeberg.page](https://geekingzone.codeberg.page))
 
 Os esperamos
+<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/episodes/Jam-Session-e1cc00d' height='204px' width='800px' frameborder='0' scrolling='no'></iframe>

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GKZ cortos - sobre los Repair Cafe
-subtitle: Episodio 2 de la temporada 41
+subtitle: Episodio 41 de la temporada 2
 cover-img: https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/14743809/14743809-1691157234739-258aa4d8814ed.jpg
 thumbnail-img: https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/14743809/14743809-1691157234739-258aa4d8814ed.jpg
 share-img: https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/14743809/14743809-1691157234739-258aa4d8814ed.jpg
@@ -24,3 +24,4 @@ tags: [episode]
 <p>Y por supuesto, en mastodon: @GeeKingZone@mastodon.social </p>
 <p>Y nuestra web: [https://geekingzone.codeberg.page</p>](https://geekingzone.codeberg.page</p>)
 <p>Os esperamos...</p>
+<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/episodes/GKZ-cortos---sobre-los-Repair-Caf-e22v42f' height='204px' width='800px' frameborder='0' scrolling='no'></iframe>

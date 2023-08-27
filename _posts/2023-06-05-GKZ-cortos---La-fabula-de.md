@@ -9,3 +9,4 @@ tags: [episode]
 ---
 
 Aquí un enlace a la noticia: [https://www.infobae.com/estados-unidos/2023/06/02/la-verdad-detras-de-la-historia-que-indico-que-un-drone-controlado-por-inteligencia-artificial-mato-a-su-operador-durante-una-simulacion/](https://www.infobae.com/estados-unidos/2023/06/02/la-verdad-detras-de-la-historia-que-indico-que-un-drone-controlado-por-inteligencia-artificial-mato-a-su-operador-durante-una-simulacion/)
+<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/episodes/GKZ-cortos---La-fbula-de-la-IA-que-mat-a-su-amo-e259aum' height='204px' width='800px' frameborder='0' scrolling='no'></iframe>

@@ -47,3 +47,4 @@ Y por supuesto, en mastodon: @GeeKingZone@mastodon.social
 Y nuestra web: [https://geekingzone.codeberg.page](https://geekingzone.codeberg.page)
 
 Os esperamos...</p>
+<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/episodes/Miscelanea-y-cierre-de-la-temporada-2-e28a911' height='204px' width='800px' frameborder='0' scrolling='no'></iframe>

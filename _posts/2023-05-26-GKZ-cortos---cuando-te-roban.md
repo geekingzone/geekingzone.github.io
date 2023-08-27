@@ -9,3 +9,4 @@ tags: [episode]
 ---
 
 Episodio corto donde comentó el robo de mi catalizador del coche
+<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/episodes/GKZ-cortos---cuando-te-roban-el-catalizador-e24mlmj' height='204px' width='800px' frameborder='0' scrolling='no'></iframe>

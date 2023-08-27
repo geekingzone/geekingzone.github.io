@@ -28,3 +28,4 @@ tags: [episode]
 <p>Y nuestra web: [https://geekingzone.codeberg.page</p>](https://geekingzone.codeberg.page</p>)
 <p><br /></p>
 <p>Os esperamos...</p>
+<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/episodes/Sin-claves-y-sin-manos-e1kiag9' height='204px' width='800px' frameborder='0' scrolling='no'></iframe>

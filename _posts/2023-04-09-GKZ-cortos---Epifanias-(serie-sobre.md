@@ -22,3 +22,4 @@ tags: [episode]
 <p>Y nuestra web: [https://geekingzone.codeberg.page</p>](https://geekingzone.codeberg.page</p>)
 <p>Os esperamos...</p>
 <p><br /></p>
+<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/episodes/GKZ-cortos---Epifanas-serie-sobre-la-Atencin-e2227i1' height='204px' width='800px' frameborder='0' scrolling='no'></iframe>
