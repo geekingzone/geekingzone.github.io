@@ -44,11 +44,10 @@ Además hablamos sobre:
 
 Música con licencias Creative Commons:
 
-  Swan Song by Paper Navy (via freemusicarchive.org) 
-  African Bliss by John Bartmann (via freemusicarchive.org) 
-  Man Outa Town by Forget the Whale (via freemusicarchive.org) 
+  Swan Song by Paper Navy (via freemusicarchive.org)&nbsp;
+  African Bliss by John Bartmann (via freemusicarchive.org)&nbsp;
+  Man Outa Town by Forget the Whale (via freemusicarchive.org)&nbsp;
   Rome (Capricorn) by RENAE (via jamendo.com)
-
 
 ¡Únete a nuestro nuevo canal en Discord de Gee King Zone Podcast!
 También a nuestra comunidad en Telegram, accesible desde [https://t.me/GeeKingZone](https://t.me/GeeKingZone)

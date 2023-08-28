@@ -16,7 +16,6 @@ Música con licencias Creative Commons:
 
  Introducción sonora: Man Outta Town by Forget the Whale (via freemusicarchive.org)
 
-
 ¡Únete a nuestro canal de Gee King Zone Podcast en Discord!
 También a nuestra comunidad en Telegram
 Además, cualquier comentario es bienvenido y agradecido en GeeKingZone@proton.me

@@ -13,7 +13,7 @@ Gracias a todos por volveros a pasar por aquí.
 Hoy os os hablamos de Servicios útiles para nosotros y que os pueden aportar algún valor. Esperamos que os ayude y os sea interesante.
 Aquí os dejamos la lista de servicios y enlaces de los que hemos hablado:
 # backup
-- rclone.org evolución de rsync para  copias y respaldos increméntales con almacenamiento en la nube
+- rclone.org evolución de rsync para &nbsp;copias y respaldos increméntales con almacenamiento en la nube
 
 # dynamic DNS
 para poder acceder a nuestros servicios en casa desde el exterior, porque nuestros proveedores no nos dan una IP fija y siempre la misma.
@@ -47,8 +47,8 @@ ownCloud [https://owncloud.com](https://owncloud.com)
 [https://www.docker.com](https://www.docker.com)
 Mediante su inmenso repositorio de contenedores disponible en [https://hub.docker.com](https://hub.docker.com) o bien en publicados libremente en otros repositorios de software, nuestras máquinas se convierten en completos servidores de forma sencilla y ordenada y com fácil mantenimiento.
 Os animamos a probarlos todos!!!!
-La música del episodio  gracias a:
-Swan Song by Paper Navy (via freemusicarchive.org)  African Bliss by John Bartmann (via freemusicarchive.org) Man Outa Town by Forget the Whale (via freemusicarchive.org)  Rome (Capricorn) by RENAE (via jamendo.com) From Andante to Adagio by Maarten Schellekens (via freemusicarchive.org) Industrial Sunrise by Scanglobe (via freemusicarchive.org)
+La música del episodio &nbsp;gracias a:
+Swan Song by Paper Navy (via freemusicarchive.org) &nbsp;African Bliss by John Bartmann (via freemusicarchive.org) Man Outa Town by Forget the Whale (via freemusicarchive.org) &nbsp;Rome (Capricorn) by RENAE (via jamendo.com) From Andante to Adagio by Maarten Schellekens (via freemusicarchive.org) Industrial Sunrise by Scanglobe (via freemusicarchive.org)
 Cualquier comentario es bienvenido y agradecido en GeeKingZone@protonmail.com o a través de Telegram.
 Únete a nuestra comunidad en Telegram, accesible desde [https://t.me/GeeKingZone](https://t.me/GeeKingZone)
 Y nuestra web: [https://geekingzone.codeberg.page](https://geekingzone.codeberg.page)

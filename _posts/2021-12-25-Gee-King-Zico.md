@@ -8,5 +8,5 @@ share-img: https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nol
 tags: [episode]
 ---
 
-<p>Con nuestros mejores deseos para todos vosotros, os deseamos una Feliz Navidad!!! &nbsp;😉</p>
+Con nuestros mejores deseos para todos vosotros, os deseamos una Feliz Navidad!!! &nbsp;😉
 <iframe src='https://podcasters.spotify.com/pod/show/geekingzone/embed/episodes/Gee-King-Zico-e1c576e' height='204px' width='380px' frameborder='0' scrolling='no'></iframe>

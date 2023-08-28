@@ -8,14 +8,23 @@ share-img: https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nol
 tags: [episode]
 ---
 
-<p>Serie de episodios cortos y sobre la marcha.</p>
-<p>El Gallo del Jet Lag</p>
-<p>Jet Lag Rooster by Sleepopolis: [https://sleepopolis.com/calculators/jet-lag/](https://sleepopolis.com/calculators/jet-lag/)</p>
-<p>How to Prevent Jet Lag: [https://www.scientificamerican.com/article/how-to-prevent-jet-lag/](https://www.scientificamerican.com/article/how-to-prevent-jet-lag/)</p>
-<p>¡Únete a nuestro canal de Gee King Zone Podcast en Discord! [https://discord.gg/V6FFxKw9](https://discord.gg/V6FFxKw9)</p>
-<p>También queremos hacer comunidad en Telegram [https://t.me/GeeKingZone](https://t.me/GeeKingZone)</p>
-<p>Además, cualquier comentario es bienvenido y agradecido en GeeKingZone@proton.me</p>
-<p>Y por supuesto, en mastodon: @GeeKingZone@mastodon.social</p>
-<p>Y nuestra web: [https://geekingzone.codeberg.page](https://geekingzone.codeberg.page)</p>
-<p>Os esperamos...</p>
+Serie de episodios cortos y sobre la marcha.
+
+El Gallo del Jet Lag
+
+Jet Lag Rooster by Sleepopolis: [https://sleepopolis.com/calculators/jet-lag/](https://sleepopolis.com/calculators/jet-lag/)
+
+How to Prevent Jet Lag: [https://www.scientificamerican.com/article/how-to-prevent-jet-lag/](https://www.scientificamerican.com/article/how-to-prevent-jet-lag/)
+
+¡Únete a nuestro canal de Gee King Zone Podcast en Discord! [https://discord.gg/V6FFxKw9](https://discord.gg/V6FFxKw9)
+
+También queremos hacer comunidad en Telegram [https://t.me/GeeKingZone](https://t.me/GeeKingZone)
+
+Además, cualquier comentario es bienvenido y agradecido en GeeKingZone@proton.me
+
+Y por supuesto, en mastodon: @GeeKingZone@mastodon.social
+
+Y nuestra web: [https://geekingzone.codeberg.page](https://geekingzone.codeberg.page)
+
+Os esperamos...
 <iframe src='https://podcasters.spotify.com/pod/show/geekingzone/embed/episodes/GKZ-cortos---El-Gallo-del-Jet-Lag-e1s7cn0' height='204px' width='380px' frameborder='0' scrolling='no'></iframe>

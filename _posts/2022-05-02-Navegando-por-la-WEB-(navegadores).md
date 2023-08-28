@@ -14,7 +14,7 @@ Seguimos celebrando las más de 500 descargas y que ya somos casi dos docenas de
 
 Actualizamos el formato del podcast con una sección de noticias recientes relacionadas de alguna manera con temas que ya hemos abordado.
 
-# BREVES - el comentario del gazapo 
+# BREVES - el comentario del gazapo&nbsp;
 
 Esta vez la noticia es que también nos equivocamos, pero lo asumimos... En el episodio 12 hablando de la teoría de la relatividad y el tiempo Ricardo, dejado llevar por el ímpetu, suelta un gazapo. Pedimos disculpas por ello.
 Aquí tenéis un enlace interesante por si queréis profundizar: [https://diarium.usal.es/guillermo/files/2013/04/GPSyRelatividadporGuillermoSanchez.pdf](https://diarium.usal.es/guillermo/files/2013/04/GPSyRelatividadporGuillermoSanchez.pdf)
@@ -43,17 +43,16 @@ Apple y algunos desarrollos Open Source
 
 Música con licencias Creative Commons:
 
-Swan Song by Paper Navy (via freemusicarchive.org) 
+Swan Song by Paper Navy (via freemusicarchive.org)&nbsp;
 One fine day by Jason Shaw (via free musicarchive.org)
-African Bliss by John Bartmann (via freemusicarchive.org) 
+African Bliss by John Bartmann (via freemusicarchive.org)&nbsp;
 Dreaming of water by Ketsa - Independent Music Licensing Colective (via freemusicarchive.org)
-Man Outa Town by Forget the Whale (via freemusicarchive.org) 
+Man Outa Town by Forget the Whale (via freemusicarchive.org)&nbsp;
 Rome (Capricorn) by RENAE (via jamendo.com)
 
+¡Únete a nuestro canal de Gee King Zone Podcast en Discord&nbsp;
 
-¡Únete a nuestro canal de Gee King Zone Podcast en Discord 
-
-También a nuestra comunidad en Telegram 
+También a nuestra comunidad en Telegram&nbsp;
 
 Además, cualquier comentario es bienvenido y agradecido en GeeKingZone@proton.me
 

@@ -8,14 +8,23 @@ share-img: https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episod
 tags: [episode]
 ---
 
-<p>Serie de episodios cortos y sobre la marcha.</p>
-<p>Os comento diversas soluciones a problemas que he venido encontrando últimamente.</p>
-<p>Los que seáis usuarios de macOS, os recomiendo probar la aplicación <a href="[https://rectangleapp.com](https://rectangleapp.com)" target="_blank">Rectangle Mac App</a></p>
-<p>Cualquier duda, estamos en los canales habituales.</p>
-<p>¡Únete a nuestro canal de Gee King Zone Podcast en Telegram [https://t.me/GeeKingZone](https://t.me/GeeKingZone)</p>
-<p>(El canal de Discord lo hemos cerrado. Sentimos las molestias 😉)</p>
-<p>Además, cualquier comentario es bienvenido y agradecido en GeeKingZone@proton.me&nbsp;</p>
-<p>Y por supuesto, en mastodon: @GeeKingZone@mastodon.social&nbsp;</p>
-<p>Y nuestra web: [https://geekingzone.codeberg.page](https://geekingzone.codeberg.page)</p>
-<p>Os esperamos...</p>
+Serie de episodios cortos y sobre la marcha.
+
+Os comento diversas soluciones a problemas que he venido encontrando últimamente.
+
+Los que seáis usuarios de macOS, os recomiendo probar la aplicación <a href="[https://rectangleapp.com](https://rectangleapp.com)" target="_blank">Rectangle Mac App</a>
+
+Cualquier duda, estamos en los canales habituales.
+
+¡Únete a nuestro canal de Gee King Zone Podcast en Telegram [https://t.me/GeeKingZone](https://t.me/GeeKingZone)
+
+(El canal de Discord lo hemos cerrado. Sentimos las molestias 😉)
+
+Además, cualquier comentario es bienvenido y agradecido en GeeKingZone@proton.me&nbsp;
+
+Y por supuesto, en mastodon: @GeeKingZone@mastodon.social&nbsp;
+
+Y nuestra web: [https://geekingzone.codeberg.page](https://geekingzone.codeberg.page)
+
+Os esperamos...
 <iframe src='https://podcasters.spotify.com/pod/show/geekingzone/embed/episodes/GKZ-cortos---miscelnea-de-soluciones-e1v5kcq' height='204px' width='380px' frameborder='0' scrolling='no'></iframe>

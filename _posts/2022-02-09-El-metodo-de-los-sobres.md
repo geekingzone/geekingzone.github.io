@@ -9,7 +9,7 @@ tags: [episode]
 ---
 
 En este episodio nos lanzamos a charlar sobre economía doméstica.
-Comentamos nuestras experiencias en la gestión de nuestras finanzas personales y cómo conseguir nuestras metas.
+Comentamos nuestras experiencias en la gestión de nuestras finanzas&nbsp;personales y cómo conseguir nuestras metas.
 Comentamos aplicaciones como GNUCash y MoneyDance.
 
 Charlamos sobre el método de los sobres y cómo poder gestionarlo con la ayuda de la aplicación Buckets.

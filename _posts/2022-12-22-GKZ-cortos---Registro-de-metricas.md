@@ -10,7 +10,7 @@ tags: [episode]
 
 Serie de episodios cortos y sobre la marcha.
 Registro de metricas de tu bebé con la Suite de Google
-Podéis encontrar el formulario y la hoja de cálculo en los siguientes enlaces. 
+Podéis encontrar el formulario y la hoja de cálculo en los siguientes enlaces.&nbsp;
 Debería bastar con abrilos o copiarlos a vuestro espacio, y enlazar ambas copias. Para ello, en la vista de edición del forumulario, dais a la opción de 'Respuestas', y en el menú de los tres puntos hay una opción de enlazar.
 Ambos enlaces apuntan a la vista de edición:
 Plantilla Bibes del Bebe (Forms): [https://docs.google.com/forms/d/1RJj3V6WUWRuf8JwB8GTRs5goSqpwP_YPNrPLgwJKwDY/edit](https://docs.google.com/forms/d/1RJj3V6WUWRuf8JwB8GTRs5goSqpwP_YPNrPLgwJKwDY/edit)

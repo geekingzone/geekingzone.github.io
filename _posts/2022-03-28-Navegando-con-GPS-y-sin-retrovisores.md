@@ -12,7 +12,7 @@ Tras demasiado tiempo sin grabar, nos embarcamos en un nuevo episodio y charlamo
 Hemos llegado a las 500 descargas, ¡¡¡¡Muchas gracias!!!!
 Actualizamos el formato del podcast con una sección de noticias recientes relacionadas de alguna manera con temas que ya hemos abordado.
 # EL COMENTARIO DE LA NOTICIA
-En esta primera entrada de la sección, comentamos esta noticia de la BBC: [https://www.bbc.com/news/world-60029508](https://www.bbc.com/news/world-60029508) y la enlazamos en el servicio  CSAM anunciado por Apple en agosto de 2021.
+En esta primera entrada de la sección, comentamos esta noticia de la BBC: [https://www.bbc.com/news/world-60029508](https://www.bbc.com/news/world-60029508) y la enlazamos en el servicio &nbsp;CSAM anunciado por Apple en agosto de 2021.
 Enlaces comentados en el episodio:
 
  Comparación de los sistemas en Wikipedia

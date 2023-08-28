@@ -20,7 +20,6 @@ Musica con licencias Creative Commons:
 
  Man Outa Town by Forget the Whale (via freemusicarchive.org)
 
-
 Cualquier comentario es bienvenido en GeeKingZone@protonmail.com
 Únete a nuestra comunidad en Telegram, accesible desde [https://t.me/GeeKingZone.](https://t.me/GeeKingZone.)
 Os esperamos.

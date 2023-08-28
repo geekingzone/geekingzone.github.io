@@ -20,7 +20,7 @@ No estamos patrocinados ni afiliados con ninguno de estos servicios o empresas. 
 También comentamos los principales estándares de código abierto para albergar un servidor VPN privado:
 - OpenVPN
 - WireGuard
-Y por último, comentamos un nuevo servicio que tiene muy buena pinta y con una comunidad de apoyo creciente: 
+Y por último, comentamos un nuevo servicio que tiene muy buena pinta y con una comunidad de apoyo creciente:&nbsp;
 - ZeroTier, con base en California, USA y que combina las capacidades de las VPN y SD-WAN.
 
 Ya avisamos que no cumplimos nuestra intención de publicar un episodio corto... 😉

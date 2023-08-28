@@ -9,7 +9,7 @@ tags: [episode]
 ---
 
 Se ha hecho esperar, ¡pero aquí está el cuarto episodio!
-Esta vez hacemos un metapodcast para compartir con vosotros nuestras opiniones sobre esta andadura. Explicamos el motivo del ¡YA! inicial, cómo y cuándo encontramos hueco para grabar, alguna anécdota curiosa.. 
+Esta vez hacemos un metapodcast para compartir con vosotros nuestras opiniones sobre esta andadura. Explicamos el motivo del ¡YA! inicial, cómo y cuándo encontramos hueco para grabar, alguna anécdota curiosa..&nbsp;
 ¡Muchas gracias por estar ahí, esperamos que os guste!
 Música con licencias Creative Commons:
 
