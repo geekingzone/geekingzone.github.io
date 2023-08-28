@@ -16,10 +16,10 @@ tags: [episode]
 <p>(ૂ⋅۬৹৴)ૂ ～˗ˏˋᗰદ૨૨ʏ ᘓમ૨ıડτന੨ડˎˊ˗</p>
 <p><br /></p>
 <p>Cualquier duda, estamos en los canales habituales.&nbsp;</p>
-<p>¡Únete a nuestro canal de Gee King Zone Podcast en Discord! [https://discord.gg/V6FFxKw9&nbsp;</p>](https://discord.gg/V6FFxKw9&nbsp;</p>)
-<p>También queremos hacer comunidad en Telegram [https://t.me/GeeKingZone&nbsp;</p>](https://t.me/GeeKingZone&nbsp;</p>)
+<p>¡Únete a nuestro canal de Gee King Zone Podcast en Discord! [https://discord.gg/V6FFxKw9&nbsp;](https://discord.gg/V6FFxKw9&nbsp;)</p>
+<p>También queremos hacer comunidad en Telegram [https://t.me/GeeKingZone&nbsp;](https://t.me/GeeKingZone&nbsp;)</p>
 <p>Además, cualquier comentario es bienvenido y agradecido en GeeKingZone@proton.me&nbsp;</p>
 <p>Y por supuesto, en mastodon: @GeeKingZone@mastodon.social&nbsp;</p>
-<p>Y nuestra web: [https://geekingzone.codeberg.page&nbsp;</p>](https://geekingzone.codeberg.page&nbsp;</p>)
+<p>Y nuestra web: [https://geekingzone.codeberg.page&nbsp;](https://geekingzone.codeberg.page&nbsp;)</p>
 <p>Os esperamos...</p>
 <iframe src='https://podcasters.spotify.com/pod/show/geekingzone/embed/episodes/GKZ-cortos---Rubn-despedida-del-ao-e1stdgu' height='204px' width='380px' frameborder='0' scrolling='no'></iframe>

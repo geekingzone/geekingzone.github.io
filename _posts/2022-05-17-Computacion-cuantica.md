@@ -20,7 +20,7 @@ tags: [episode]
 <p>¡Únete a nuestro canal de Gee King Zone Podcast en Discord!</p>
 <p>También a nuestra comunidad en Telegram&nbsp;</p>
 <p>Además, cualquier comentario es bienvenido y agradecido en GeeKingZone@proton.me</p>
-<p>Y nuestra web: [https://geekingzone.codeberg.page</p>](https://geekingzone.codeberg.page</p>)
+<p>Y nuestra web: [https://geekingzone.codeberg.page](https://geekingzone.codeberg.page)</p>
 <p><br /></p>
 <p>Os esperamos...</p>
 <iframe src='https://podcasters.spotify.com/pod/show/geekingzone/embed/episodes/Computacin-cuntica-e1ilm7a' height='204px' width='380px' frameborder='0' scrolling='no'></iframe>

@@ -18,10 +18,10 @@ tags: [episode]
 <p><br /></p>
 <p>Música con licencias Creative Commons:</p>
 <ul>
-  <li>Introducción: Man Outta Town by Forget the Whale ([https://freemusicarchive.org/music/Forget_the_Whale/you-me-talk-now/man-outta-town-instrumental-1)</li>](https://freemusicarchive.org/music/Forget_the_Whale/you-me-talk-now/man-outta-town-instrumental-1)</li>)
+  <li>Introducción: Man Outta Town by Forget the Whale ([https://freemusicarchive.org/music/Forget_the_Whale/you-me-talk-now/man-outta-town-instrumental-1)](https://freemusicarchive.org/music/Forget_the_Whale/you-me-talk-now/man-outta-town-instrumental-1))</li>
 </ul>
 <ul>
-  <li>Cortinilla de cierre: Rome (Capricorn) by RENAE ([https://www.jamendo.com/track/1825610/rome-capricorn)</li>](https://www.jamendo.com/track/1825610/rome-capricorn)</li>)
+  <li>Cortinilla de cierre: Rome (Capricorn) by RENAE ([https://www.jamendo.com/track/1825610/rome-capricorn)](https://www.jamendo.com/track/1825610/rome-capricorn))</li>
 </ul>
 <p><br /></p>
 <p>¡Únete a nuestro comunidad Gee King Zone Podcast en Telegram!

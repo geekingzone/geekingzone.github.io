@@ -12,7 +12,7 @@ tags: [episode]
 <p>Os comento algunas consideraciones sobre la privacidad de la aplicación WhatsApp.</p>
 <p><br /></p>
 <p>Cualquier duda, estamos en los canales habituales.</p>
-<p>¡Únete a nuestro canal de Gee King Zone Podcast en Telegram [https://t.me/GeeKingZone</p>](https://t.me/GeeKingZone</p>)
+<p>¡Únete a nuestro canal de Gee King Zone Podcast en Telegram [https://t.me/GeeKingZone](https://t.me/GeeKingZone)</p>
 <p>(El canal de Discord lo hemos cerrado. Sentimos las molestias 😉)</p>
 <p>Además, cualquier comentario es bienvenido y agradecido en GeeKingZone@proton.me</p>
 <p>Y por supuesto, en mastodon: @GeeKingZone@mastodon.social</p>

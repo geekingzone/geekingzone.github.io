@@ -11,13 +11,13 @@ tags: [episode]
 <p>Serie de episodios cortos.</p>
 <p><strong>Comentando el proceso de verificación de la edad en Instagram</strong><br />
 <br />
-[https://about.instagram.com/blog/announcements/new-ways-to-verify-age-on-instagram</p>](https://about.instagram.com/blog/announcements/new-ways-to-verify-age-on-instagram</p>)
-<p>[https://www.yoti.com/</p>](https://www.yoti.com/</p>)
+[https://about.instagram.com/blog/announcements/new-ways-to-verify-age-on-instagram](https://about.instagram.com/blog/announcements/new-ways-to-verify-age-on-instagram)</p>
+<p>[https://www.yoti.com/](https://www.yoti.com/)</p>
 <p><br /></p>
-<p>¡Únete a nuestro canal de Gee King Zone Podcast en Discord! [https://discord.gg/V6FFxKw9</p>](https://discord.gg/V6FFxKw9</p>)
-<p>También queremos hacer comunidad en Telegram [https://t.me/GeeKingZone</p>](https://t.me/GeeKingZone</p>)
+<p>¡Únete a nuestro canal de Gee King Zone Podcast en Discord! [https://discord.gg/V6FFxKw9](https://discord.gg/V6FFxKw9)</p>
+<p>También queremos hacer comunidad en Telegram [https://t.me/GeeKingZone](https://t.me/GeeKingZone)</p>
 <p>Además, cualquier comentario es bienvenido y agradecido en GeeKingZone@proton.me</p>
 <p>Y por supuesto, en mastodon: @GeeKingZone@mastodon.social</p>
-<p>Y nuestra web: [https://geekingzone.codeberg.page</p>](https://geekingzone.codeberg.page</p>)
+<p>Y nuestra web: [https://geekingzone.codeberg.page](https://geekingzone.codeberg.page)</p>
 <p>Os esperamos...</p>
 <iframe src='https://podcasters.spotify.com/pod/show/geekingzone/embed/episodes/GKZ-cortos---Verificacin-de-la-edad-en-Instagram-e1qjj3j' height='204px' width='380px' frameborder='0' scrolling='no'></iframe>

@@ -34,7 +34,7 @@ El navegador Pale Moon está basado en el motor de renderizado Goanna
 - [https://es.wikipedia.org/wiki/Goanna](https://es.wikipedia.org/wiki/Goanna)
 
 Algunas viejas glorias
-- [https://es.wikipedia.org/wiki/Internet_Explorer](https://es.wikipedia.org/wiki/Internet_Explorer)#Arquitectura
+- [https://es.wikipedia.org/wiki/Internet_Explorer#Arquitectura](https://es.wikipedia.org/wiki/Internet_Explorer#Arquitectura)
 - [https://es.wikipedia.org/wiki/Lynx_(navegador)](https://es.wikipedia.org/wiki/Lynx_(navegador))
 - [https://es.wikipedia.org/wiki/Links](https://es.wikipedia.org/wiki/Links)
 

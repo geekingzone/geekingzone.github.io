@@ -25,7 +25,7 @@ tags: [episode]
 <p><br /></p>
 <p>Además, cualquier comentario es bienvenido y agradecido en GeeKingZone@proton.me</p>
 <p><br /></p>
-<p>Y nuestra web: [https://geekingzone.codeberg.page</p>](https://geekingzone.codeberg.page</p>)
+<p>Y nuestra web: [https://geekingzone.codeberg.page](https://geekingzone.codeberg.page)</p>
 <p><br /></p>
 <p>Os esperamos...</p>
 <iframe src='https://podcasters.spotify.com/pod/show/geekingzone/embed/episodes/Sin-claves-y-sin-manos-e1kiag9' height='204px' width='380px' frameborder='0' scrolling='no'></iframe>

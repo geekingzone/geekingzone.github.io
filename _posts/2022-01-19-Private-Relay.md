@@ -21,7 +21,7 @@ Os dejamos algunos enlaces de interés:
 · [https://blog.elhacker.net/2022/01/varias-operadoras-europeas-quieren-que-se-prohiba-private-relay-Apple.html](https://blog.elhacker.net/2022/01/varias-operadoras-europeas-quieren-que-se-prohiba-private-relay-Apple.html)
 · [https://9to5mac.com/2022/01/10/european-carriers-seek-to-block-iphone-private-relay-feature/](https://9to5mac.com/2022/01/10/european-carriers-seek-to-block-iphone-private-relay-feature/)
 
-· [https://docs.pi-hole.net/ftldns/configfile/](https://docs.pi-hole.net/ftldns/configfile/)#icloud_private_relay
+· [https://docs.pi-hole.net/ftldns/configfile/#icloud_private_relay](https://docs.pi-hole.net/ftldns/configfile/#icloud_private_relay)
 
 Música con licencias Creative Commons:
 · Swan Song by Paper Navy (via freemusicarchive.org)

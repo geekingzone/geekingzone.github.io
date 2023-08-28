@@ -24,7 +24,7 @@ tags: [episode]
 <p>¡Únete a nuestro canal de Gee King Zone Podcast en Discord!</p>
 <p>También a nuestra comunidad en Telegram</p>
 <p>Además, cualquier comentario es bienvenido y agradecido en GeeKingZone@proton.me</p>
-<p>Y nuestra web: [https://geekingzone.codeberg.page</p>](https://geekingzone.codeberg.page</p>)
+<p>Y nuestra web: [https://geekingzone.codeberg.page](https://geekingzone.codeberg.page)</p>
 <p>Os esperamos...</p>
 <p><br /></p>
 <iframe src='https://podcasters.spotify.com/pod/show/geekingzone/embed/episodes/Minimalismo-e1pjhnv' height='204px' width='380px' frameborder='0' scrolling='no'></iframe>
