@@ -2,9 +2,9 @@
 layout: post
 title: GKZ cortos - tu pagina web gratis con GitHub Pages!
 subtitle: Episodio 55 de la temporada 4
-cover-img: https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/14743809/14743809-1693322352255-faaec0caa62c1.jpg
-thumbnail-img: https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/14743809/14743809-1693322352255-faaec0caa62c1.jpg
-share-img: https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/14743809/14743809-1693322352255-faaec0caa62c1.jpg
+cover-img: https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/14743809/14743809-1693493466302-e650c15c36506.jpg
+thumbnail-img: https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/14743809/14743809-1693493466302-e650c15c36506.jpg
+share-img: https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/14743809/14743809-1693493466302-e650c15c36506.jpg
 tags: [episode]
 ---
 
