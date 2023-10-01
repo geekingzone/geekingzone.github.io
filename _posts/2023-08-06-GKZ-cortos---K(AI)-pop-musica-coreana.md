@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GKZ cortos - K(AI)-pop musica coreana pasada por la maquina de IA para llegar aun mas lejos
-subtitle: Episodio 50
+subtitle: Episodio Bonus
 cover-img: https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/14743809/14743809-1691318707154-717b1ccb92b66.jpg
 thumbnail-img: https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/14743809/14743809-1691318707154-717b1ccb92b66.jpg
 share-img: https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/14743809/14743809-1691318707154-717b1ccb92b66.jpg

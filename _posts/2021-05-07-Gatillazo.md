@@ -2,9 +2,9 @@
 layout: post
 title: Gatillazo
 subtitle: Episodio 2
-cover-img: https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/14743809/14743809-1619370372653-eb16be7dd0aee.jpg
-thumbnail-img: https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/14743809/14743809-1619370372653-eb16be7dd0aee.jpg
-share-img: https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/14743809/14743809-1619370372653-eb16be7dd0aee.jpg
+cover-img: https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/14743809/14743809-1696170230537-432e1daad96a9.jpg
+thumbnail-img: https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/14743809/14743809-1696170230537-432e1daad96a9.jpg
+share-img: https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/14743809/14743809-1696170230537-432e1daad96a9.jpg
 tags: [episode]
 ---
 
