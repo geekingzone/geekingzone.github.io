@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GKZ cortos - Capacidad de atencion
-subtitle: Episodio 32 de la temporada 2
+subtitle: Episodio 32
 cover-img: https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/14743809/14743809-1691161547259-4250a11bbf06e.jpg
 thumbnail-img: https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/14743809/14743809-1691161547259-4250a11bbf06e.jpg
 share-img: https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/14743809/14743809-1691161547259-4250a11bbf06e.jpg

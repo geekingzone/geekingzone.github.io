@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GKZ cortos - Ricks despedida del ano
-subtitle: Episodio 28 de la temporada 2
+subtitle: Episodio 28
 cover-img: https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/14743809/14743809-1619370377976-ce118b9b0f9a8.jpg
 thumbnail-img: https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/14743809/14743809-1619370377976-ce118b9b0f9a8.jpg
 share-img: https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/14743809/14743809-1619370377976-ce118b9b0f9a8.jpg

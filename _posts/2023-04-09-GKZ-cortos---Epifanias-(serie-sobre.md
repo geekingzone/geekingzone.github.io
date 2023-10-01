@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GKZ cortos - Epifanias (serie sobre la Atencion)
-subtitle: Episodio 39 de la temporada 2
+subtitle: Episodio 39
 cover-img: https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/14743809/14743809-1691157422610-a679d81af9faf.jpg
 thumbnail-img: https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/14743809/14743809-1691157422610-a679d81af9faf.jpg
 share-img: https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/14743809/14743809-1691157422610-a679d81af9faf.jpg

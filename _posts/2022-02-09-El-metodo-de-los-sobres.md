@@ -1,7 +1,7 @@
 ---
 layout: post
 title: El metodo de los sobres
-subtitle: Episodio 11 de la temporada 2
+subtitle: Episodio 11
 cover-img: https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/14743809/14743809-1619370372653-eb16be7dd0aee.jpg
 thumbnail-img: https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/14743809/14743809-1619370372653-eb16be7dd0aee.jpg
 share-img: https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/14743809/14743809-1619370372653-eb16be7dd0aee.jpg

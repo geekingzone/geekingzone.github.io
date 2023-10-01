@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chatgpt, estan locos estos Romanos?
-subtitle: Episodio 40 de la temporada 2
+subtitle: Episodio 40
 cover-img: https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/14743809/14743809-1691157355695-0b36b4eae2a72.jpg
 thumbnail-img: https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/14743809/14743809-1691157355695-0b36b4eae2a72.jpg
 share-img: https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/14743809/14743809-1691157355695-0b36b4eae2a72.jpg
