@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Navegando con GPS y sin retrovisores
-subtitle: Episodio 12
+subtitle: Episodio 13
 cover-img: https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/14743809/14743809-1619370372653-eb16be7dd0aee.jpg
 thumbnail-img: https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/14743809/14743809-1619370372653-eb16be7dd0aee.jpg
 share-img: https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/14743809/14743809-1619370372653-eb16be7dd0aee.jpg
@@ -26,8 +26,8 @@ Música con licencias Creative Commons:
 
  Swan Song by Paper Navy (via freemusicarchive.org)
  African Bliss by John Bartmann (via freemusicarchive.org)
-  Man Outa Town by Forget the Whale (via freemusicarchive.org)
-  Rome (Capricorn) by RENAE (via jamendo.com)
+ Man Outa Town by Forget the Whale (via freemusicarchive.org)
+ Rome (Capricorn) by RENAE (via jamendo.com)
 
 ¡Únete a nuestro nuevo canal en Discord de Gee King Zone Podcast!
 También a nuestra comunidad en Telegram, accesible desde [https://t.me/GeeKingZone](https://t.me/GeeKingZone)
