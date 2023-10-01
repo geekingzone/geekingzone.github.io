@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GKZ cortos - Actualiza la web de tu Podcast con GitHub Actions y Pages
-subtitle: Episodio 55 de la temporada 4
+subtitle: Episodio 55
 cover-img: https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/14743809/14743809-1693493466302-e650c15c36506.jpg
 thumbnail-img: https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/14743809/14743809-1693493466302-e650c15c36506.jpg
 share-img: https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/14743809/14743809-1693493466302-e650c15c36506.jpg
