@@ -9,4 +9,12 @@ tags: [episode]
 ---
 
 En nuestro episodio de hoy, hablaremos sobre cómo Spotify está utilizando la IA para clonar y traducir las voces de los podcasters. ¿Cuáles son las implicaciones éticas? ¿Debería existir alguna regulación en torno a la clonación de voces?
-<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/embed/episodes/GKZ-cortos---La-Revolucin-de-la-Voz-Adios-a-las-Barreras-Lingisticas-e2a01pu' height='204px' width='380px' frameborder='0' scrolling='no'></iframe>
+
+  
+
+AI translated episodes: [https://open.spotify.com/genre/section0JQ5IMCbQBLnMqryRqjFSj](https://open.spotify.com/genre/section0JQ5IMCbQBLnMqryRqjFSj)
+
+my-own-voice: [https://mov.acapela-group.com/](https://mov.acapela-group.com/)
+
+  
+<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/embed/episodes/GKZ-cortos---La-Revolucion-de-la-Voz-Adios-a-las-Barreras-Linguisticas-e2a01pu' height='204px' width='380px' frameborder='0' scrolling='no'></iframe>

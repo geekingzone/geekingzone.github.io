@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jam Session
-subtitle: Episodio 9 de la temporada 2
+subtitle: Episodio Bonus
 cover-img: https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/14743809/14743809-1619370372653-eb16be7dd0aee.jpg
 thumbnail-img: https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/14743809/14743809-1619370372653-eb16be7dd0aee.jpg
 share-img: https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/14743809/14743809-1619370372653-eb16be7dd0aee.jpg
@@ -26,8 +26,8 @@ Además hablamos sobre:
  Control Parental
  Nuestro ofrecimiento para quien se anime con nosotros a grabar un episodio sobre nuevos temas.
  Criptomonedas
-  NFTs
-  Banca del futuro
+ NFTs
+ Banca del futuro
   Lo que nos ha ayudado a nosotros Gee King Zone en éste 2021
   Monetización
   Tecnología en la infancia
