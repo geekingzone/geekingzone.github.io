@@ -2,9 +2,9 @@
 layout: post
 title: The Social Dilemma
 subtitle: Episodio 3
-cover-img: https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/14743809/14743809-1619370372653-eb16be7dd0aee.jpg
-thumbnail-img: https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/14743809/14743809-1619370372653-eb16be7dd0aee.jpg
-share-img: https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/14743809/14743809-1619370372653-eb16be7dd0aee.jpg
+cover-img: https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/14743809/14743809-1696170481046-c0b7ec7c48357.jpg
+thumbnail-img: https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/14743809/14743809-1696170481046-c0b7ec7c48357.jpg
+share-img: https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/14743809/14743809-1696170481046-c0b7ec7c48357.jpg
 tags: [episode]
 ---
 
