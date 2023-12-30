@@ -2,9 +2,9 @@
 layout: post
 title: GKZ "semi"cortos - el del portatil roto
 subtitle: Episodio Bonus
-cover-img: https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/14743809/14743809-1619370377976-ce118b9b0f9a8.jpg
-thumbnail-img: https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/14743809/14743809-1619370377976-ce118b9b0f9a8.jpg
-share-img: https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/14743809/14743809-1619370377976-ce118b9b0f9a8.jpg
+cover-img: https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/14743809/14743809-1702244446524-9893ecae3088b.jpg
+thumbnail-img: https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/14743809/14743809-1702244446524-9893ecae3088b.jpg
+share-img: https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/14743809/14743809-1702244446524-9893ecae3088b.jpg
 tags: [episode]
 ---
 
