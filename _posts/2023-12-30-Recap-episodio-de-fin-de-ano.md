@@ -14,7 +14,7 @@ Hablamos sobre:
 *   Microsoft Copilot: [https://play.google.com/store/apps/details?id=com.microsoft.copilot&amp;gl=us&amp;pli=1](https://play.google.com/store/apps/details?id=com.microsoft.copilot&amp;gl=us&amp;pli=1)
 *   Episodio "Algoritmos y ambiciones, la historia de OpenAI" de [https://podcasts.apple.com/es/podcast/el-siglo-21-es-hoy/id664960163](https://podcasts.apple.com/es/podcast/el-siglo-21-es-hoy/id664960163)
 *   Episodio "Mariano Sigman - Inteligencia Artificial vs Ser Humano" de [https://podcasts.apple.com/es/podcast/363-mariano-sigman-inteligencia-artificial-vs-ser-humano/id1245349669?i=1000638300699](https://podcasts.apple.com/es/podcast/363-mariano-sigman-inteligencia-artificial-vs-ser-humano/id1245349669?i=1000638300699)
-*   De como cada uno estamos viendo el fenómeno de ChatGPT y la IA desde nuestro prisma, y al final sacando conclusiones parecidas.
+*   De como cada uno en su disciplina estamos viendo el fenómeno de ChatGPT y la IA desde nuestro prisma, y al final sacando conclusiones parecidas.
 *   Comentamos nuestra visión sobre el momento vital de las GAFAs (\_Google\_, \_Amazon\_, \_Facebook\_ y Apple)
 *   Nuestros propósitos para el año nuevo 2024
 *   Como aportar a la comunidad Opensource
