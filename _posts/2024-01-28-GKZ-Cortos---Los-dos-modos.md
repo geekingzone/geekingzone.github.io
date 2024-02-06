@@ -10,7 +10,7 @@ tags: [episode]
 
 Hoy hablamos de los dos modos de configuración para añadir contenidos a YouTube Kids
 
-  
-
 Esperamos que os guste!
+
+Envíanos un mensaje de voz: [https://podcasters.spotify.com/pod/show/geekingzone/message](https://podcasters.spotify.com/pod/show/geekingzone/message)
 <iframe src='https://podcasters.spotify.com/pod/show/geekingzone/embed/episodes/GKZ-Cortos---Los-dos-modos-de-configuracin-de-YouTube-Kids-e2eposs' height='204px' width='380px' frameborder='0' scrolling='no'></iframe>
