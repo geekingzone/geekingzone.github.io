@@ -8,5 +8,5 @@ share-img: https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_epi
 tags: [episode]
 ---
 
-Pues un día después de hablar de Runaway gen2, o caprichos del destino, OpenAi lanzo Sora
+Pues un día después de hablar de Runaway gen2, oh caprichos del destino, OpenAi lanzo Sora
 <iframe src='https://podcasters.spotify.com/pod/show/geekingzone/embed/episodes/GKZ-cortos---y-OpenAI-lanzo-Sora-e2fsqq5' height='204px' width='380px' frameborder='0' scrolling='no'></iframe>
