@@ -8,5 +8,5 @@ share-img: https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_epi
 tags: [episode]
 ---
 
-A medida que la generación de imágenes que reproducen rostros humanos, cada vez mejor nos estamos dando cuenta de que no aparece eso que llamábamos el valle inquietante. Has tenido esa sensación viendo los últimos vídeos generados con Sora? Yo no. Imagen del episodio generada con [https://ideogram.ai/](https://ideogram.ai/)
+A medida que la generación de imágenes que reproducen rostros humanos cada vez es mejor, nos estamos dando cuenta de que no aparece eso que llamábamos el valle inquietante. Has tenido esa sensación viendo los últimos vídeos generados con Sora? Yo no. Imagen del episodio generada con [https://ideogram.ai/](https://ideogram.ai/)
 <iframe src='https://podcasters.spotify.com/pod/show/geekingzone/embed/episodes/GKZ-cortos---dnde-est-el-valle-inquietante-e2g7nqd' height='204px' width='380px' frameborder='0' scrolling='no'></iframe>
