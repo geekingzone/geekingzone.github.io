@@ -1,0 +1,19 @@
+---
+layout: post
+title: GKZ cortos - las webapps de los “webops” en iOS 17.4
+subtitle: Episodio Bonus
+cover-img: https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/14743809/14743809-1710103432663-04f81a4ec6d4b.jpg
+thumbnail-img: https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/14743809/14743809-1710103432663-04f81a4ec6d4b.jpg
+share-img: https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/14743809/14743809-1710103432663-04f81a4ec6d4b.jpg
+tags: [episode]
+---
+
+Why don’t users in the EU have access to Home Screen web apps?
+UPDATE: Previously, Apple announced plans to remove the Home Screen web apps capability in the EU as part of our efforts to comply with the DMA. The need to remove the capability was informed by the complex security and privacy concerns associated with web apps to support alternative browser engines that would require building a new integration architecture that does not currently exist in iOS.
+We have received requests to continue to offer support for Home Screen web apps in iOS, therefore we will continue to offer the existing Home Screen web apps capability in the EU. This support means Home Screen web apps continue to be built directly on WebKit and its security architecture, and align with the security and privacy model for native apps on iOS.
+Developers and users who may have been impacted by the removal of Home Screen web apps in the beta release of iOS in the EU can expect the return of the existing functionality for Home Screen web apps with the availability of iOS 17.4 in early March.
+ORIGINAL: To comply with the Digital Markets Act, Apple has done an enormous amount of engineering work to add new functionality and capabilities for developers and users in the European Union — including more than 600 new APIs and a wide range of developer tools.
+The iOS system has traditionally provided support for Home Screen web apps by building directly on WebKit and its security architecture. That integration means Home Screen web apps are managed to align with the security and privacy model for native apps on iOS, including isolation of storage and enforcement of system prompts to access privacy impacting capabilities on a per-site basis.
+Without this type of isolation and enforcement, malicious web apps could read data from other web apps and recapture their permissions to gain access to a user’s camera, microphone or location without a user’s consent. Browsers also could install web apps on the system without a user’s awareness and consent. Addressing the complex security and privacy concerns associated with web apps using alternative browser engines would require building an entirely new integration architecture that does not currently exist in iOS and was not practical to undertake given the other demands of the DMA and the very low user adoption of Home Screen web apps. And so, to comply with the DMA’s requirements, we had to remove the Home Screen web apps feature in the EU.
+EU users will be able to continue accessing websites directly from their Home Screen through a bookmark with minimal impact to their functionality. We expect this change to affect a small number of users. Still, we regret any impact this change — that was made as part of the work to comply with the DMA — may have on developers of Home Screen web apps and our users. [https://developer.apple.com/support/dma-and-apps-in-the-eu/](https://developer.apple.com/support/dma-and-apps-in-the-eu/)
+<iframe src='https://podcasters.spotify.com/pod/show/geekingzone/embed/episodes/GKZ-cortos---las-webapps-de-los-webops-en-iOS-17-4-e2gqj7i' height='204px' width='380px' frameborder='0' scrolling='no'></iframe>
