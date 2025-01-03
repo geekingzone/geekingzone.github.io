@@ -184,6 +184,9 @@ footer-hover-col: "#0085A1"
 # you should switch to using the `gtag` field above instead.
 #google_analytics: "UA-XXXXXXXX-X"
 
+# Ahrefs Web Analytics
+ahrefs_analytics: "+HhZgcWQjsRBf1b38WmHaA"
+
 ####################
 # --- Comments --- #
 ####################
